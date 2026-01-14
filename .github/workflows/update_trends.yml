@@ -2,7 +2,7 @@ name: Update Google Trends
 
 on:
   schedule:
-    # every 10 minutes
+    # every 10 minutes (GitHub uses UTC)
     - cron: '*/10 * * * *'
   workflow_dispatch: # allows manual trigger
 
@@ -10,7 +10,8 @@ jobs:
   update-trends:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -21,13 +22,12 @@ jobs:
         run: pip install requests
 
       - name: Fetch Google Trends
-        run: |
-          python fetch_trends.py
+        run: python fetch_trends.py
 
       - name: Commit and push trends
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add trends.json
-          git commit -m "Update Google Trends"
+          git diff-index --quiet HEAD || git commit -m "Update Google Trends"
           git push
