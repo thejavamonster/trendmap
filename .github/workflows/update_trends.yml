@@ -2,34 +2,45 @@ name: Update Google Trends
 
 on:
   schedule:
-    # every 10 minutes (GitHub uses UTC)
-    - cron: '*/7 * * * *'
-  workflow_dispatch: # manual trigger
+    - cron: "*/10 * * * *"   # every 10 minutes (UTC)
+  workflow_dispatch:
+
+concurrency:
+  group: trendmap-update
+  cancel-in-progress: true
 
 jobs:
-  update-trends:
+  update:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
-          persist-credentials: false 
+          persist-credentials: false
+          fetch-depth: 0
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: "3.x"
 
       - name: Install dependencies
-        run: pip install requests
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser
 
       - name: Fetch Google Trends
-        run: python fetch_trends.py
+        run: |
+          python fetch_trends.py
 
       - name: Commit and push trends
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+
           git add trends.json
           git diff-index --quiet HEAD || git commit -m "Update Google Trends"
-          git push https://x-access-token:${{ secrets.PAT }}@github.com/thejavamonster/trendmap.git
+
+          git pull --rebase https://x-access-token:${{ secrets.PAT }}@github.com/thejavamonster/trendmap.git main
+          git push https://x-access-token:${{ secrets.PAT }}@github.com/thejavamonster/trendmap.git main
