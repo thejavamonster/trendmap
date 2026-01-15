@@ -32,11 +32,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-DE"
   },
   "US-FL": {
-    "title": "weather channel",
+    "title": "stock futures",
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
-    "title": "wsbtv",
+    "title": "weather atlanta",
     "link": "https://trends.google.com/trending/rss?geo=US-GA"
   },
   "US-HI": {
@@ -52,7 +52,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-IL"
   },
   "US-IN": {
-    "title": "school delays",
+    "title": "delays and closings",
     "link": "https://trends.google.com/trending/rss?geo=US-IN"
   },
   "US-IA": {
@@ -76,7 +76,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ME"
   },
   "US-MD": {
-    "title": "giants",
+    "title": "new york giants",
     "link": "https://trends.google.com/trending/rss?geo=US-MD"
   },
   "US-MA": {
@@ -116,7 +116,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NH"
   },
   "US-NJ": {
-    "title": "weather nyc",
+    "title": "bettijo hirschi",
     "link": "https://trends.google.com/trending/rss?geo=US-NJ"
   },
   "US-NM": {
@@ -136,11 +136,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ND"
   },
   "US-OH": {
-    "title": "akron public schools",
+    "title": "wpafb",
     "link": "https://trends.google.com/trending/rss?geo=US-OH"
   },
   "US-OK": {
-    "title": "wizards vs clippers",
+    "title": "knicks vs kings",
     "link": "https://trends.google.com/trending/rss?geo=US-OK"
   },
   "US-OR": {
@@ -148,7 +148,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-OR"
   },
   "US-PA": {
-    "title": "school delays and closings",
+    "title": "wfmz",
     "link": "https://trends.google.com/trending/rss?geo=US-PA"
   },
   "US-RI": {
@@ -156,7 +156,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-RI"
   },
   "US-SC": {
-    "title": "duke vs california",
+    "title": "john harbaugh",
     "link": "https://trends.google.com/trending/rss?geo=US-SC"
   },
   "US-SD": {
@@ -168,7 +168,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-TN"
   },
   "US-TX": {
-    "title": "ali larter",
+    "title": "nasa astronauts space station evacuation",
     "link": "https://trends.google.com/trending/rss?geo=US-TX"
   },
   "US-UT": {
@@ -180,7 +180,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-VT"
   },
   "US-VA": {
-    "title": "school closings",
+    "title": "bettijo hirschi",
     "link": "https://trends.google.com/trending/rss?geo=US-VA"
   },
   "US-WA": {
