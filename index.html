@@ -40,9 +40,23 @@ const tooltip = d3.select("#tooltip");
 // Color scale
 const color = d3.scaleOrdinal(d3.schemeCategory10);
 
+// FIPS to US-XX codes
+const fipsToCode = {
+  "01":"US-AL","02":"US-AK","04":"US-AZ","05":"US-AR","06":"US-CA",
+  "08":"US-CO","09":"US-CT","10":"US-DE","12":"US-FL","13":"US-GA",
+  "15":"US-HI","16":"US-ID","17":"US-IL","18":"US-IN","19":"US-IA",
+  "20":"US-KS","21":"US-KY","22":"US-LA","23":"US-ME","24":"US-MD",
+  "25":"US-MA","26":"US-MI","27":"US-MN","28":"US-MS","29":"US-MO",
+  "30":"US-MT","31":"US-NE","32":"US-NV","33":"US-NH","34":"US-NJ",
+  "35":"US-NM","36":"US-NY","37":"US-NC","38":"US-ND","39":"US-OH",
+  "40":"US-OK","41":"US-OR","42":"US-PA","44":"US-RI","45":"US-SC",
+  "46":"US-SD","47":"US-TN","48":"US-TX","49":"US-UT","50":"US-VT",
+  "51":"US-VA","53":"US-WA","54":"US-WV","55":"US-WI","56":"US-WY"
+};
+
 // Load GeoJSON for US states
 d3.json("https://raw.githubusercontent.com/PublicaMundi/MappingAPI/master/data/geojson/us-states.json").then(us => {
-  
+
   // Load your trends.json
   d3.json("trends.json").then(trends => {
 
@@ -58,7 +72,7 @@ d3.json("https://raw.githubusercontent.com/PublicaMundi/MappingAPI/master/data/g
       .attr("d", path)
       .attr("fill", (d,i)=>color(i))
       .on("mouseover", (event,d) => {
-        const stateCode = "US-" + d.id; // GeoJSON id is usually state FIPS; adjust if needed
+        const stateCode = fipsToCode[d.id];
         const trend = trends[stateCode];
         tooltip.transition().duration(100).style("opacity",1);
         tooltip.html(`<strong>${d.properties.name}</strong><br>${trend && trend.title ? `<a href="${trend.link}" target="_blank">${trend.title}</a>` : "No trend"}`)
@@ -74,7 +88,7 @@ d3.json("https://raw.githubusercontent.com/PublicaMundi/MappingAPI/master/data/g
       });
 
   }).catch(err => console.error("Error loading trends.json", err));
-  
+
 }).catch(err => console.error("Error loading GeoJSON", err));
 </script>
 
