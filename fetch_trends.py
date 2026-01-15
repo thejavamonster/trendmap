@@ -38,5 +38,6 @@ for state in states:
         trends[state] = {"title": None, "link": None}
         print(f"Error fetching {state}: {e}")
 
+# always write a valid JSON to avoid workflow crashes
 with open("trends.json", "w") as f:
     json.dump(trends, f, indent=2)
