@@ -2,103 +2,80 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>US Google Trends by State</title>
+<title>US Google Trends Map</title>
 <style>
-  body {
-    font-family: Arial, sans-serif;
-    padding: 20px;
-    max-width: 900px;
-    margin: auto;
-  }
-  h1 {
-    text-align: center;
-  }
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 20px;
-  }
-  th, td {
+  body { font-family: Arial, sans-serif; padding: 0; margin: 0; }
+  #map { width: 100%; height: 90vh; }
+  .tooltip {
+    position: absolute;
+    background: white;
+    padding: 6px 10px;
     border: 1px solid #aaa;
-    padding: 8px 12px;
-    text-align: left;
+    border-radius: 4px;
+    pointer-events: none;
+    font-size: 14px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.2);
   }
-  th {
-    background-color: #f4f4f4;
-  }
-  td a {
-    color: #0066cc;
-    text-decoration: none;
-  }
-  td a:hover {
-    text-decoration: underline;
-  }
+  svg path { stroke: #fff; stroke-width: 1; }
 </style>
+<script src="https://d3js.org/d3.v7.min.js"></script>
 </head>
 <body>
 
-<h1>Top Google Trend by State</h1>
-<p>Data updates every ~10 minutes via GitHub Actions.</p>
-
-<table id="trendTable">
-  <thead>
-    <tr>
-      <th>State</th>
-      <th>Top Trend</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td colspan="2">Loading...</td></tr>
-  </tbody>
-</table>
+<h1 style="text-align:center; margin:10px 0;">Top Google Trends by State</h1>
+<div id="map"></div>
+<div class="tooltip" id="tooltip" style="opacity:0;"></div>
 
 <script>
-const stateNames = {
-  "US-AL":"Alabama","US-AK":"Alaska","US-AZ":"Arizona","US-AR":"Arkansas",
-  "US-CA":"California","US-CO":"Colorado","US-CT":"Connecticut","US-DE":"Delaware",
-  "US-FL":"Florida","US-GA":"Georgia","US-HI":"Hawaii","US-ID":"Idaho",
-  "US-IL":"Illinois","US-IN":"Indiana","US-IA":"Iowa","US-KS":"Kansas",
-  "US-KY":"Kentucky","US-LA":"Louisiana","US-ME":"Maine","US-MD":"Maryland",
-  "US-MA":"Massachusetts","US-MI":"Michigan","US-MN":"Minnesota","US-MS":"Mississippi",
-  "US-MO":"Missouri","US-MT":"Montana","US-NE":"Nebraska","US-NV":"Nevada",
-  "US-NH":"New Hampshire","US-NJ":"New Jersey","US-NM":"New Mexico","US-NY":"New York",
-  "US-NC":"North Carolina","US-ND":"North Dakota","US-OH":"Ohio","US-OK":"Oklahoma",
-  "US-OR":"Oregon","US-PA":"Pennsylvania","US-RI":"Rhode Island","US-SC":"South Carolina",
-  "US-SD":"South Dakota","US-TN":"Tennessee","US-TX":"Texas","US-UT":"Utah",
-  "US-VT":"Vermont","US-VA":"Virginia","US-WA":"Washington","US-WV":"West Virginia",
-  "US-WI":"Wisconsin","US-WY":"Wyoming"
-};
+// Dimensions
+const width = 960, height = 600;
 
-async function loadTrends() {
-  const tableBody = document.querySelector("#trendTable tbody");
-  tableBody.innerHTML = "<tr><td colspan='2'>Loading...</td></tr>";
+// Projection & path
+const projection = d3.geoAlbersUsa().translate([width/2,height/2]).scale(1200);
+const path = d3.geoPath().projection(projection);
 
-  try {
-    const res = await fetch("trends.json");
-    const data = await res.json();
+// Tooltip
+const tooltip = d3.select("#tooltip");
 
-    let rows = "";
-    for (const stateCode in stateNames) {
-      const state = stateNames[stateCode];
-      const trend = data[stateCode] || {title: "N/A", link: "#"};
-      const title = trend.title || "No trend";
-      const link = trend.link || "#";
-      rows += `<tr><td>${state}</td><td>${link!="#" ? `<a href="${link}" target="_blank">${title}</a>` : title}</td></tr>`;
-    }
+// Color scale
+const color = d3.scaleOrdinal(d3.schemeCategory10);
 
-    tableBody.innerHTML = rows;
+// Load GeoJSON for US states
+d3.json("https://raw.githubusercontent.com/PublicaMundi/MappingAPI/master/data/geojson/us-states.json").then(us => {
+  
+  // Load your trends.json
+  d3.json("trends.json").then(trends => {
 
-  } catch (err) {
-    tableBody.innerHTML = "<tr><td colspan='2'>Failed to load trends 😢</td></tr>";
-    console.error(err);
-  }
-}
+    const svg = d3.select("#map")
+                  .append("svg")
+                  .attr("width", width)
+                  .attr("height", height);
 
-// initial load
-loadTrends();
+    svg.selectAll("path")
+      .data(us.features)
+      .enter()
+      .append("path")
+      .attr("d", path)
+      .attr("fill", (d,i)=>color(i))
+      .on("mouseover", (event,d) => {
+        const stateCode = "US-" + d.id; // GeoJSON id is usually state FIPS; adjust if needed
+        const trend = trends[stateCode];
+        tooltip.transition().duration(100).style("opacity",1);
+        tooltip.html(`<strong>${d.properties.name}</strong><br>${trend && trend.title ? `<a href="${trend.link}" target="_blank">${trend.title}</a>` : "No trend"}`)
+               .style("left", (event.pageX+10) + "px")
+               .style("top", (event.pageY+10) + "px");
+      })
+      .on("mousemove", (event)=> {
+        tooltip.style("left", (event.pageX+10) + "px")
+               .style("top", (event.pageY+10) + "px");
+      })
+      .on("mouseout", () => {
+        tooltip.transition().duration(200).style("opacity",0);
+      });
 
-// optional: refresh every 10 minutes (600000 ms)
-setInterval(loadTrends, 600000);
+  }).catch(err => console.error("Error loading trends.json", err));
+  
+}).catch(err => console.error("Error loading GeoJSON", err));
 </script>
 
 </body>
