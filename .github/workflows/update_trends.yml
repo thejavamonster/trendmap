@@ -26,8 +26,8 @@ jobs:
 
       - name: Commit and push trends
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add trends.json
-          git diff-index --quiet HEAD || git commit -m "Update Google Trends"
-          git push
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            git add trends.json
+            git diff-index --quiet HEAD || git commit -m "Update Google Trends"
+            git push https://x-access-token:${{ secrets.PAT }}@github.com/thejavamonster/trendmap.git
