@@ -3,7 +3,7 @@ name: Update Google Trends
 on:
   schedule:
     # every 10 minutes (GitHub uses UTC)
-    - cron: '*/10 * * * *'
+    - cron: '*/7 * * * *'
   workflow_dispatch: # manual trigger
 
 jobs:
