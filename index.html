@@ -1,106 +1,222 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
+<meta charset="UTF-8" />
 <title>US Google Trends Map</title>
-<style>
-  html, body {
-    width: 100%;
-    height: 100%;
-    margin: 0;
-    padding: 0;
-    background: white;
-    font-family: Arial, sans-serif;
-  }
-  #map {
-    width: 100%;
-    height: 100%;
-  }
-  .tooltip {
-    position: absolute;
-    background: white;
-    padding: 6px 10px;
-    border: 1px solid #aaa;
-    border-radius: 4px;
-    pointer-events: none;
-    font-size: 14px;
-    box-shadow: 0 0 5px rgba(0,0,0,0.2);
-  }
-  svg path { stroke: #fff; stroke-width: 1; }
-</style>
+
 <script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="https://unpkg.com/topojson@3"></script>
+
+<style>
+html, body {
+  margin: 0; padding: 0; width: 100%; height: 100%;
+  overflow: hidden; background: white; font-family: Arial, sans-serif;
+}
+
+svg { width: 100vw; height: 100vh; }
+
+.state { stroke: #333; stroke-width: 0.7; cursor: pointer; }
+.state:hover { opacity: 0.7; }
+#tooltip {
+  position: absolute; background: white; border: 1px solid #aaa;
+  padding: 6px 8px; font-size: 14px; pointer-events: none; display: none;
+}
+.label { font-size: 10px; pointer-events: none; font-weight: bold; }
+.line { stroke: #555; stroke-width: 1; }
+</style>
 </head>
 <body>
 
-<div id="map"></div>
-<div class="tooltip" id="tooltip" style="opacity:0;"></div>
+<div id="tooltip"></div>
+<svg></svg>
 
 <script>
-// Full window dimensions
-const width = window.innerWidth;
-const height = window.innerHeight;
-
-// Projection & path
-const projection = d3.geoAlbersUsa().translate([width/2, height/2]).scale(width * 1.2);
-const path = d3.geoPath().projection(projection);
-
-// Tooltip
+const svg = d3.select("svg");
 const tooltip = d3.select("#tooltip");
+const projection = d3.geoAlbersUsa();
+const path = d3.geoPath(projection);
 
-// FIPS to US-XX codes
-const fipsToCode = {
+const fipsToState = {
   "01":"US-AL","02":"US-AK","04":"US-AZ","05":"US-AR","06":"US-CA",
-  "08":"US-CO","09":"US-CT","10":"US-DE","12":"US-FL","13":"US-GA",
-  "15":"US-HI","16":"US-ID","17":"US-IL","18":"US-IN","19":"US-IA",
-  "20":"US-KS","21":"US-KY","22":"US-LA","23":"US-ME","24":"US-MD",
-  "25":"US-MA","26":"US-MI","27":"US-MN","28":"US-MS","29":"US-MO",
-  "30":"US-MT","31":"US-NE","32":"US-NV","33":"US-NH","34":"US-NJ",
-  "35":"US-NM","36":"US-NY","37":"US-NC","38":"US-ND","39":"US-OH",
-  "40":"US-OK","41":"US-OR","42":"US-PA","44":"US-RI","45":"US-SC",
-  "46":"US-SD","47":"US-TN","48":"US-TX","49":"US-UT","50":"US-VT",
-  "51":"US-VA","53":"US-WA","54":"US-WV","55":"US-WI","56":"US-WY"
+  "08":"US-CO","09":"US-CT","10":"US-DE","11":"US-DC","12":"US-FL",
+  "13":"US-GA","15":"US-HI","16":"US-ID","17":"US-IL","18":"US-IN",
+  "19":"US-IA","20":"US-KS","21":"US-KY","22":"US-LA","23":"US-ME",
+  "24":"US-MD","25":"US-MA","26":"US-MI","27":"US-MN","28":"US-MS",
+  "29":"US-MO","30":"US-MT","31":"US-NE","32":"US-NV","33":"US-NH",
+  "34":"US-NJ","35":"US-NM","36":"US-NY","37":"US-NC","38":"US-ND",
+  "39":"US-OH","40":"US-OK","41":"US-OR","42":"US-PA","44":"US-RI",
+  "45":"US-SC","46":"US-SD","47":"US-TN","48":"US-TX","49":"US-UT",
+  "50":"US-VT","51":"US-VA","53":"US-WA","54":"US-WV","55":"US-WI",
+  "56":"US-WY"
 };
 
-// Load GeoJSON for US states
-d3.json("https://raw.githubusercontent.com/PublicaMundi/MappingAPI/master/data/geojson/us-states.json").then(us => {
+// NE states with offsets
+const neStates = ["US-RI","US-DE","US-NJ","US-MD","US-CT","US-MA","US-VT","US-NH"];
+const neOffsets = {
+  "US-RI":[60,5],  "US-DE":[60,0], "US-NJ":[60,5], "US-MD":[60,10],
+  "US-CT":[60,15], "US-MA":[60,-15], "US-VT":[-40,-30], "US-NH":[-10,-80]
+};
 
-  // Load your trends.json
-  d3.json("trends.json").then(trends => {
+Promise.all([
+  fetch("trends.json").then(r => r.json()),
+  fetch("https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json").then(r => r.json())
+]).then(([trends, us]) => {
 
-    const svg = d3.select("#map")
-                  .append("svg")
-                  .attr("width", width)
-                  .attr("height", height);
+  const states = topojson.feature(us, us.objects.states).features;
 
-    svg.selectAll("path")
-      .data(us.features)
-      .enter()
-      .append("path")
-      .attr("d", path)
-      .attr("fill", (d,i) => d3.interpolateRainbow(i / 50))  // rainbow colors
-      .on("mouseover", (event,d) => {
-        const stateCode = fipsToCode[d.id];
-        const trend = trends[stateCode];
-        tooltip.transition().duration(100).style("opacity",1);
-        tooltip.html(`<strong>${d.properties.name}</strong><br>${trend && trend.title ? `<a href="${trend.link}" target="_blank">${trend.title}</a>` : "No trend"}`)
-               .style("left", (event.pageX+10) + "px")
-               .style("top", (event.pageY+10) + "px");
-      })
-      .on("mousemove", (event)=> {
-        tooltip.style("left", (event.pageX+10) + "px")
-               .style("top", (event.pageY+10) + "px");
-      })
-      .on("mouseout", () => {
-        tooltip.transition().duration(200).style("opacity",0);
-      });
+  const padding = 40;
+  projection.fitExtent(
+    [[padding, padding],[window.innerWidth - padding, window.innerHeight - padding]],
+    topojson.feature(us, us.objects.states)
+  );
 
-  }).catch(err => console.error("Error loading trends.json", err));
+  // Build unique trend colors
+  // (trendTitles declaration moved below, only declare once)
+        // Create a color scale for the trends, randomizing colors on each reload
+        const trendTitles = Array.from(new Set(
+          Object.values(trends)
+            .filter(d => d && typeof d.title === "string" && d.title.trim() !== "")
+            .map(d => d.title.trim())
+        ));
+        // Check for missing trend data
+        const checkTrendData = (trend) => {
+          return !trend || typeof trend.title !== "string" || trend.title.trim() === "";
+        };
+    // Use a palette of visually distinct colors
+    // Restore original D3 color scheme for trend colors
+    function shuffle(array) {
+      for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+      }
+      return array;
+    }
+    // Remove gray colors from the palette
+    const originalPalette = d3.schemeCategory10.concat(d3.schemeSet3);
+    const colorArray = shuffle(originalPalette.filter(c => {
+      // Remove gray and near-gray colors
+      const grays = ["#cccccc", "#b3b3b3", "#c0c0c0", "#999999", "#808080", "#f2f2f2", "#d9d9d9", "#e6e6e6"];
+      return !grays.includes(c.toLowerCase());
+    }));
+    const colorScale = d3.scaleOrdinal()
+                         .domain(trendTitles)
+                         .range(colorArray);
 
-}).catch(err => console.error("Error loading GeoJSON", err));
+  // Draw states
+  svg.selectAll("path")
+    .data(states)
+    .join("path")
+    .attr("class","state")
+    .attr("d", path)
+        .attr("fill", d => {
+          const fips = d.id.toString().padStart(2,"0");
+          const code = fipsToState[fips];
+          const trend = trends[code];
+          // Only color gray if trend is missing/null or has no valid title
+            if (checkTrendData(trend)) {
+            return "#ccc"; // very light gray for missing data
+          }
+          // Always trim the title to avoid accidental whitespace mismatches
+          return colorScale(trend.title.trim());
+        })
+    .on("mousemove",(event,d)=>{
+      const fips = d.id.toString().padStart(2,"0");
+      const code = fipsToState[fips];
+      const trend = trends[code];
+      const text = checkTrendData(trend) ? "No data" : trend.title;
+      tooltip.style("display","block")
+             .style("left",(event.pageX+10)+"px")
+             .style("top",(event.pageY+10)+"px")
+             .html(`<strong>${d.properties.name}</strong><br>${text}`);
+    })
+    .on("mouseout",()=>tooltip.style("display","none"))
+    .on("click",(event,d)=>{
+      const fips = d.id.toString().padStart(2,"0");
+      const code = fipsToState[fips];
+      const trend = trends[code];
+      if (!checkTrendData(trend)) {
+        const query = encodeURIComponent(trend.title.trim());
+        window.open(`https://www.google.com/search?q=${query}`, '_blank');
+      }
+    });
 
-// Resize map when window changes
-window.addEventListener("resize", () => location.reload());
+  // Labels inside big states (show 'No data' for missing/null/empty trend data)
+  states.forEach(d=>{
+    const fips = d.id.toString().padStart(2,"0");
+    const code = fipsToState[fips];
+    const trend = trends[code];
+    if(neStates.includes(code)) return;
+    const centroid = path.centroid(d);
+    let labelText;
+    if(!trend || !trend.title || trend.title.trim()==="") {
+      labelText = "No data";
+    } else {
+      labelText = trend.title;
+    }
+    svg.append("text")
+       .attr("x", centroid[0])
+       .attr("y", centroid[1])
+       .attr("class","label")
+       .attr("text-anchor","middle")
+       .text(labelText)
+       .call(wrap, 80);
+  });
+
+  // NE labels with lines (show 'No data' for missing/null/empty trend data)
+  neStates.forEach(code=>{
+    const state = states.find(d=>fipsToState[d.id.toString().padStart(2,"0")]===code);
+    if(!state) return;
+    const centroid = path.centroid(state);
+    const trend = trends[code];
+    let labelText;
+    if(!trend || !trend.title || trend.title.trim()==="") {
+      labelText = "No data";
+    } else {
+      labelText = trend.title;
+    }
+
+    const [dx,dy] = neOffsets[code];
+    const x = centroid[0]+dx;
+    const y = centroid[1]+dy;
+
+    svg.append("line")
+       .attr("x1", centroid[0])
+       .attr("y1", centroid[1])
+       .attr("x2", x)
+       .attr("y2", y)
+       .attr("class","line");
+
+    svg.append("text")
+       .attr("x", x+(dx>0?5:-5))
+       .attr("y", y+4)
+       .attr("class","label")
+       .attr("text-anchor", dx>0?"start":"end")
+       .text(labelText)
+       .call(wrap,120);
+  });
+
+});
+
+// Wrap function
+function wrap(text,width){
+  text.each(function(){
+    const text=d3.select(this);
+    const words=text.text().split(/\s+/).reverse();
+    let word,line=[],lineNumber=0,lineHeight=1.1;
+    const y=text.attr("y"), x=text.attr("x");
+    let tspan=text.text(null).append("tspan").attr("x",x).attr("y",y);
+    while(word=words.pop()){
+      line.push(word); tspan.text(line.join(" "));
+      if(tspan.node().getComputedTextLength()>width){
+        line.pop(); tspan.text(line.join(" "));
+        line=[word];
+        tspan=text.append("tspan").attr("x",x).attr("y",+y+(++lineNumber*lineHeight*10)).text(word);
+      }
+    }
+  });
+}
+
+window.addEventListener("resize",()=>location.reload());
 </script>
-
 </body>
 </html>
