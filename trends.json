@@ -36,7 +36,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
-    "title": "wsbtv",
+    "title": "starz",
     "link": "https://trends.google.com/trending/rss?geo=US-GA"
   },
   "US-HI": {
@@ -64,7 +64,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-KS"
   },
   "US-KY": {
-    "title": "school closings",
+    "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=US-KY"
   },
   "US-LA": {
@@ -88,7 +88,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-MI"
   },
   "US-MN": {
-    "title": "michael rapaport",
+    "title": "national weather service",
     "link": "https://trends.google.com/trending/rss?geo=US-MN"
   },
   "US-MS": {
@@ -112,7 +112,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NV"
   },
   "US-NH": {
-    "title": "bruins",
+    "title": "nhl standings",
     "link": "https://trends.google.com/trending/rss?geo=US-NH"
   },
   "US-NJ": {
@@ -160,7 +160,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-SC"
   },
   "US-SD": {
-    "title": "insurrection act",
+    "title": "weather tomorrow",
     "link": "https://trends.google.com/trending/rss?geo=US-SD"
   },
   "US-TN": {
