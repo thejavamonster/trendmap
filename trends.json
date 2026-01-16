@@ -12,15 +12,15 @@
     "link": "https://trends.google.com/trending/rss?geo=US-AZ"
   },
   "US-AR": {
-    "title": "epic",
-    "link": "https://trends.google.com/trending/rss?geo=US-AR"
+    "title": null,
+    "link": null
   },
   "US-CA": {
-    "title": "adria arjona",
-    "link": "https://trends.google.com/trending/rss?geo=US-CA"
+    "title": null,
+    "link": null
   },
   "US-CO": {
-    "title": "psg vs losc",
+    "title": "28 years later the bone temple",
     "link": "https://trends.google.com/trending/rss?geo=US-CO"
   },
   "US-CT": {
@@ -32,7 +32,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-DE"
   },
   "US-FL": {
-    "title": "football games this weekend",
+    "title": "pelicans vs pacers",
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
@@ -48,7 +48,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ID"
   },
   "US-IL": {
-    "title": "cubs convention 2026",
+    "title": "stoli vodka",
     "link": "https://trends.google.com/trending/rss?geo=US-IL"
   },
   "US-IN": {
@@ -60,7 +60,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-IA"
   },
   "US-KS": {
-    "title": "the rip",
+    "title": "snow squall warning",
     "link": "https://trends.google.com/trending/rss?geo=US-KS"
   },
   "US-KY": {
@@ -68,7 +68,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-KY"
   },
   "US-LA": {
-    "title": "euphoria",
+    "title": "pelicans vs pacers",
     "link": "https://trends.google.com/trending/rss?geo=US-LA"
   },
   "US-ME": {
@@ -76,7 +76,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ME"
   },
   "US-MD": {
-    "title": "28 years later the bone temple",
+    "title": "nfl games this weekend",
     "link": "https://trends.google.com/trending/rss?geo=US-MD"
   },
   "US-MA": {
@@ -112,11 +112,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NV"
   },
   "US-NH": {
-    "title": "bo bichette",
+    "title": "the rip",
     "link": "https://trends.google.com/trending/rss?geo=US-NH"
   },
   "US-NJ": {
-    "title": "umass amherst",
+    "title": "cavaliers vs 76ers",
     "link": "https://trends.google.com/trending/rss?geo=US-NJ"
   },
   "US-NM": {
@@ -124,11 +124,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NM"
   },
   "US-NY": {
-    "title": "stoli vodka",
-    "link": "https://trends.google.com/trending/rss?geo=US-NY"
+    "title": null,
+    "link": null
   },
   "US-NC": {
-    "title": "measles",
+    "title": "new irs tax deductions",
     "link": "https://trends.google.com/trending/rss?geo=US-NC"
   },
   "US-ND": {
@@ -136,7 +136,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ND"
   },
   "US-OH": {
-    "title": "nfl games this weekend",
+    "title": "cavaliers vs 76ers",
     "link": "https://trends.google.com/trending/rss?geo=US-OH"
   },
   "US-OK": {
@@ -148,7 +148,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-OR"
   },
   "US-PA": {
-    "title": "stoli vodka",
+    "title": "cavaliers vs 76ers",
     "link": "https://trends.google.com/trending/rss?geo=US-PA"
   },
   "US-RI": {
@@ -168,7 +168,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-TN"
   },
   "US-TX": {
-    "title": "nfl games this weekend",
+    "title": "pelicans vs pacers",
     "link": "https://trends.google.com/trending/rss?geo=US-TX"
   },
   "US-UT": {
@@ -180,7 +180,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-VT"
   },
   "US-VA": {
-    "title": "28 years later the bone temple",
+    "title": "new irs tax deductions",
     "link": "https://trends.google.com/trending/rss?geo=US-VA"
   },
   "US-WA": {
