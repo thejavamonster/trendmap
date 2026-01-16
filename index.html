@@ -51,7 +51,7 @@ const fipsToState = {
   "56":"US-WY"
 };
 
-// NE states with offsets
+//STATES TOO SMALL FOR REGULAR LABELS
 const neStates = ["US-RI","US-DE","US-NJ","US-MD","US-CT","US-MA","US-VT","US-NH"];
 const neOffsets = {
   "US-RI":[60,5],  "US-DE":[60,0], "US-NJ":[60,5], "US-MD":[60,10],
@@ -66,27 +66,24 @@ Promise.all([
   const states = topojson.feature(us, us.objects.states).features;
 
   const padding = 50;
-  // Move map up by reducing top padding
-  const topPadding = 50; // was 40
+  //padding
+  const topPadding = 50; 
   projection.fitExtent(
     [[padding, topPadding],[window.innerWidth - padding, window.innerHeight - padding]],
     topojson.feature(us, us.objects.states)
   );
 
-  // Build unique trend colors
-  // (trendTitles declaration moved below, only declare once)
-        // Create a color scale for the trends, randomizing colors on each reload
+  //colors
         const trendTitles = Array.from(new Set(
           Object.values(trends)
             .filter(d => d && typeof d.title === "string" && d.title.trim() !== "")
             .map(d => d.title.trim())
         ));
-        // Check for missing trend data
+        //missing trend data ie wyoming, montana often
         const checkTrendData = (trend) => {
           return !trend || typeof trend.title !== "string" || trend.title.trim() === "";
         };
-    // Use a palette of visually distinct colors
-    // Restore original D3 color scheme for trend colors
+    //visually separate... but visible with black text
     function shuffle(array) {
       for (let i = array.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
@@ -94,10 +91,10 @@ Promise.all([
       }
       return array;
     }
-    // Remove gray colors from the palette
+    //no gray
+    //bc "No data" is gray and its confusing
     const originalPalette = d3.schemeCategory10.concat(d3.schemeSet3);
     const colorArray = shuffle(originalPalette.filter(c => {
-      // Remove gray and near-gray colors
       const grays = ["#cccccc", "#b3b3b3", "#c0c0c0", "#999999", "#808080", "#f2f2f2", "#d9d9d9", "#e6e6e6"];
       return !grays.includes(c.toLowerCase());
     }));
@@ -105,10 +102,10 @@ Promise.all([
                          .domain(trendTitles)
                          .range(colorArray);
 
-  // Move map up by translating the group
-  const mapGroup = svg.append("g").attr("transform", "translate(0,-50)"); // move up by 30px
+  //50px UP
+  const mapGroup = svg.append("g").attr("transform", "translate(0,-50)"); 
 
-  // Draw states
+
   mapGroup.selectAll("path")
     .data(states)
     .join("path")
@@ -118,11 +115,10 @@ Promise.all([
           const fips = d.id.toString().padStart(2,"0");
           const code = fipsToState[fips];
           const trend = trends[code];
-          // Only color gray if trend is missing/null or has no valid title
+          //color gray for No data
             if (checkTrendData(trend)) {
-            return "#ccc"; // very light gray for missing data
+            return "#ccc"; 
           }
-          // Always trim the title to avoid accidental whitespace mismatches
           return colorScale(trend.title.trim());
         })
     .on("mousemove",(event,d)=>{
@@ -146,7 +142,7 @@ Promise.all([
       }
     });
 
-  // Labels inside big states (show 'No data' for missing/null/empty trend data)
+  //state labels for states big enough to fit label
   states.forEach(d=>{
     const fips = d.id.toString().padStart(2,"0");
     const code = fipsToState[fips];
@@ -168,7 +164,7 @@ Promise.all([
        .call(wrap, 80);
   });
 
-  // NE labels with lines (show 'No data' for missing/null/empty trend data)
+  //guiding lines for new england small states
   neStates.forEach(code=>{
     const state = states.find(d=>fipsToState[d.id.toString().padStart(2,"0")]===code);
     if(!state) return;
@@ -203,7 +199,6 @@ Promise.all([
 
 });
 
-// Wrap function
 function wrap(text,width){
   text.each(function(){
     const text=d3.select(this);

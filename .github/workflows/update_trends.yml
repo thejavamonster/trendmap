@@ -2,7 +2,7 @@ name: Update Google Trends
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   # every 10 minutes (UTC)
+    - cron: "*/10 * * * *"   #ever 10 m
   workflow_dispatch:
 
 concurrency:

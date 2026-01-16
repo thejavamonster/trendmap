@@ -20,7 +20,6 @@ for state in states:
         r.raise_for_status()
         text = r.text
 
-        # parse top <item> manually
         start = text.find("<item>")
         end = text.find("</item>")
         if start != -1 and end != -1:
@@ -38,6 +37,5 @@ for state in states:
         trends[state] = {"title": None, "link": None}
         print(f"Error fetching {state}: {e}")
 
-# always write a valid JSON to avoid workflow crashes
 with open("trends.json", "w") as f:
     json.dump(trends, f, indent=2)
