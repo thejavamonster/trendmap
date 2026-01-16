@@ -24,9 +24,10 @@ svg { width: 100vw; height: 100vh; }
 .label { font-size: 10px; pointer-events: none; font-weight: bold; }
 .line { stroke: #555; stroke-width: 1; }
 </style>
+<h2 style="text-align: center;">Trending Google Searches per State</h2>
+
 </head>
 <body>
-
 <div id="tooltip"></div>
 <svg></svg>
 
@@ -64,9 +65,11 @@ Promise.all([
 
   const states = topojson.feature(us, us.objects.states).features;
 
-  const padding = 40;
+  const padding = 50;
+  // Move map up by reducing top padding
+  const topPadding = 50; // was 40
   projection.fitExtent(
-    [[padding, padding],[window.innerWidth - padding, window.innerHeight - padding]],
+    [[padding, topPadding],[window.innerWidth - padding, window.innerHeight - padding]],
     topojson.feature(us, us.objects.states)
   );
 
@@ -102,8 +105,11 @@ Promise.all([
                          .domain(trendTitles)
                          .range(colorArray);
 
+  // Move map up by translating the group
+  const mapGroup = svg.append("g").attr("transform", "translate(0,-50)"); // move up by 30px
+
   // Draw states
-  svg.selectAll("path")
+  mapGroup.selectAll("path")
     .data(states)
     .join("path")
     .attr("class","state")
@@ -153,7 +159,7 @@ Promise.all([
     } else {
       labelText = trend.title;
     }
-    svg.append("text")
+    mapGroup.append("text")
        .attr("x", centroid[0])
        .attr("y", centroid[1])
        .attr("class","label")
@@ -179,14 +185,14 @@ Promise.all([
     const x = centroid[0]+dx;
     const y = centroid[1]+dy;
 
-    svg.append("line")
+    mapGroup.append("line")
        .attr("x1", centroid[0])
        .attr("y1", centroid[1])
        .attr("x2", x)
        .attr("y2", y)
        .attr("class","line");
 
-    svg.append("text")
+    mapGroup.append("text")
        .attr("x", x+(dx>0?5:-5))
        .attr("y", y+4)
        .attr("class","label")
