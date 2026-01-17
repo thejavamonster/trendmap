@@ -12,11 +12,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-AZ"
   },
   "US-AR": {
-    "title": "nfl schedule",
+    "title": "nfl games",
     "link": "https://trends.google.com/trending/rss?geo=US-AR"
   },
   "US-CA": {
-    "title": "what time do the 49ers play today",
+    "title": "nfl games",
     "link": "https://trends.google.com/trending/rss?geo=US-CA"
   },
   "US-CO": {
@@ -24,7 +24,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-CO"
   },
   "US-CT": {
-    "title": "uconn vs georgetown",
+    "title": "nottm forest vs arsenal",
     "link": "https://trends.google.com/trending/rss?geo=US-CT"
   },
   "US-DE": {
@@ -32,15 +32,15 @@
     "link": "https://trends.google.com/trending/rss?geo=US-DE"
   },
   "US-FL": {
-    "title": "kentucky vs tennessee",
+    "title": "minnesota vs illinois",
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
-    "title": "nfl games",
+    "title": "al-nassr - al-shabab",
     "link": "https://trends.google.com/trending/rss?geo=US-GA"
   },
   "US-HI": {
-    "title": "weather",
+    "title": "nfl schedule",
     "link": "https://trends.google.com/trending/rss?geo=US-HI"
   },
   "US-ID": {
@@ -48,23 +48,23 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ID"
   },
   "US-IL": {
-    "title": "illini basketball",
+    "title": "bayern munich",
     "link": "https://trends.google.com/trending/rss?geo=US-IL"
   },
   "US-IN": {
-    "title": "nottm forest vs arsenal",
+    "title": "minnesota vs illinois",
     "link": "https://trends.google.com/trending/rss?geo=US-IN"
   },
   "US-IA": {
-    "title": "bills vs broncos",
+    "title": "minnesota vs illinois",
     "link": "https://trends.google.com/trending/rss?geo=US-IA"
   },
   "US-KS": {
-    "title": "nfl games",
+    "title": "the hawk",
     "link": "https://trends.google.com/trending/rss?geo=US-KS"
   },
   "US-KY": {
-    "title": "ky basketball",
+    "title": "kentucky basketball",
     "link": "https://trends.google.com/trending/rss?geo=US-KY"
   },
   "US-LA": {
@@ -76,11 +76,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ME"
   },
   "US-MD": {
-    "title": "nottm forest vs arsenal",
+    "title": "al-nassr - al-shabab",
     "link": "https://trends.google.com/trending/rss?geo=US-MD"
   },
   "US-MA": {
-    "title": "sunderland vs crystal palace",
+    "title": "rb leipzig vs bayern",
     "link": "https://trends.google.com/trending/rss?geo=US-MA"
   },
   "US-MI": {
@@ -108,7 +108,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NE"
   },
   "US-NV": {
-    "title": "nfl schedule",
+    "title": "nfl today",
     "link": "https://trends.google.com/trending/rss?geo=US-NV"
   },
   "US-NH": {
@@ -116,19 +116,19 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NH"
   },
   "US-NJ": {
-    "title": "al-nassr vs al-shabab",
+    "title": "rangers vs flyers",
     "link": "https://trends.google.com/trending/rss?geo=US-NJ"
   },
   "US-NM": {
-    "title": "nfl games",
+    "title": "bills vs broncos",
     "link": "https://trends.google.com/trending/rss?geo=US-NM"
   },
   "US-NY": {
-    "title": "why does trump want greenland",
+    "title": "accuweather",
     "link": "https://trends.google.com/trending/rss?geo=US-NY"
   },
   "US-NC": {
-    "title": "nc state basketball",
+    "title": "rb leipzig vs bayern",
     "link": "https://trends.google.com/trending/rss?geo=US-NC"
   },
   "US-ND": {
@@ -136,7 +136,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ND"
   },
   "US-OH": {
-    "title": "r.c.d. mallorca - athletic",
+    "title": "ohio state basketball",
     "link": "https://trends.google.com/trending/rss?geo=US-OH"
   },
   "US-OK": {
@@ -144,11 +144,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-OK"
   },
   "US-OR": {
-    "title": "sam darnold",
+    "title": "nottm forest vs arsenal",
     "link": "https://trends.google.com/trending/rss?geo=US-OR"
   },
   "US-PA": {
-    "title": "nottm forest vs arsenal",
+    "title": "rangers vs flyers",
     "link": "https://trends.google.com/trending/rss?geo=US-PA"
   },
   "US-RI": {
@@ -168,7 +168,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-TN"
   },
   "US-TX": {
-    "title": "texans game sunday",
+    "title": "india u-19 vs bangladesh u-19",
     "link": "https://trends.google.com/trending/rss?geo=US-TX"
   },
   "US-UT": {
@@ -180,7 +180,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-VT"
   },
   "US-VA": {
-    "title": "virginia vs smu",
+    "title": "al-nassr - al-shabab",
     "link": "https://trends.google.com/trending/rss?geo=US-VA"
   },
   "US-WA": {
@@ -192,7 +192,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-WV"
   },
   "US-WI": {
-    "title": "egypt vs nigeria",
+    "title": "nottm forest vs arsenal",
     "link": "https://trends.google.com/trending/rss?geo=US-WI"
   },
   "US-WY": {
