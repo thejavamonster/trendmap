@@ -32,11 +32,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-DE"
   },
   "US-FL": {
-    "title": "northern lights",
+    "title": "pitbull",
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
-    "title": "jazz vs spurs",
+    "title": "pitbull",
     "link": "https://trends.google.com/trending/rss?geo=US-GA"
   },
   "US-HI": {
@@ -48,11 +48,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ID"
   },
   "US-IL": {
-    "title": "jeff hafley",
-    "link": "https://trends.google.com/trending/rss?geo=US-IL"
+    "title": null,
+    "link": null
   },
   "US-IN": {
-    "title": "mavericks vs knicks",
+    "title": "pitbull",
     "link": "https://trends.google.com/trending/rss?geo=US-IN"
   },
   "US-IA": {
@@ -60,7 +60,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-IA"
   },
   "US-KS": {
-    "title": "thunder vs cavaliers",
+    "title": "jeff hafley",
     "link": "https://trends.google.com/trending/rss?geo=US-KS"
   },
   "US-KY": {
@@ -68,7 +68,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-KY"
   },
   "US-LA": {
-    "title": "brooklyn beckham",
+    "title": "clippers vs wizards",
     "link": "https://trends.google.com/trending/rss?geo=US-LA"
   },
   "US-ME": {
@@ -84,7 +84,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-MA"
   },
   "US-MI": {
-    "title": "mavericks vs knicks",
+    "title": "jazz vs spurs",
     "link": "https://trends.google.com/trending/rss?geo=US-MI"
   },
   "US-MN": {
@@ -96,7 +96,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-MS"
   },
   "US-MO": {
-    "title": "northern lights",
+    "title": "jazz vs spurs",
     "link": "https://trends.google.com/trending/rss?geo=US-MO"
   },
   "US-MT": {
@@ -108,15 +108,15 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NE"
   },
   "US-NV": {
-    "title": null,
-    "link": null
+    "title": "jeff hafley",
+    "link": "https://trends.google.com/trending/rss?geo=US-NV"
   },
   "US-NH": {
     "title": "college football championship",
     "link": "https://trends.google.com/trending/rss?geo=US-NH"
   },
   "US-NJ": {
-    "title": "jazz vs spurs",
+    "title": "uconn women&apos;s basketball",
     "link": "https://trends.google.com/trending/rss?geo=US-NJ"
   },
   "US-NM": {
@@ -124,11 +124,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NM"
   },
   "US-NY": {
-    "title": "capitals vs avalanche",
+    "title": "klay thompson",
     "link": "https://trends.google.com/trending/rss?geo=US-NY"
   },
   "US-NC": {
-    "title": "jazz vs spurs",
+    "title": "uconn women&apos;s basketball",
     "link": "https://trends.google.com/trending/rss?geo=US-NC"
   },
   "US-ND": {
@@ -136,19 +136,19 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ND"
   },
   "US-OH": {
-    "title": "penguins vs kraken",
+    "title": "pitbull",
     "link": "https://trends.google.com/trending/rss?geo=US-OH"
   },
   "US-OK": {
-    "title": "brooklyn beckham",
+    "title": "jeff hafley",
     "link": "https://trends.google.com/trending/rss?geo=US-OK"
   },
   "US-OR": {
-    "title": "northern lights",
+    "title": "aurora forecast",
     "link": "https://trends.google.com/trending/rss?geo=US-OR"
   },
   "US-PA": {
-    "title": "jazz vs spurs",
+    "title": "school closings tomorrow",
     "link": "https://trends.google.com/trending/rss?geo=US-PA"
   },
   "US-RI": {
@@ -156,15 +156,15 @@
     "link": "https://trends.google.com/trending/rss?geo=US-RI"
   },
   "US-SC": {
-    "title": "uconn women&apos;s basketball",
+    "title": "northern lights",
     "link": "https://trends.google.com/trending/rss?geo=US-SC"
   },
   "US-SD": {
-    "title": "sean mcdermott",
+    "title": "college football championship",
     "link": "https://trends.google.com/trending/rss?geo=US-SD"
   },
   "US-TN": {
-    "title": "jazz vs spurs",
+    "title": "mavericks vs knicks",
     "link": "https://trends.google.com/trending/rss?geo=US-TN"
   },
   "US-TX": {
@@ -172,7 +172,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-TX"
   },
   "US-UT": {
-    "title": "brooklyn beckham",
+    "title": "jeff hafley",
     "link": "https://trends.google.com/trending/rss?geo=US-UT"
   },
   "US-VT": {
@@ -192,7 +192,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-WV"
   },
   "US-WI": {
-    "title": "raheem morris",
+    "title": "brian flores",
     "link": "https://trends.google.com/trending/rss?geo=US-WI"
   },
   "US-WY": {
