@@ -16,7 +16,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-AR"
   },
   "US-CA": {
-    "title": "saugus cafe",
+    "title": "klint kubiak",
     "link": "https://trends.google.com/trending/rss?geo=US-CA"
   },
   "US-CO": {
@@ -32,7 +32,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-DE"
   },
   "US-FL": {
-    "title": "cam newton",
+    "title": "ana",
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
@@ -48,7 +48,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ID"
   },
   "US-IL": {
-    "title": "ben kingsley",
+    "title": "cam newton",
     "link": "https://trends.google.com/trending/rss?geo=US-IL"
   },
   "US-IN": {
@@ -60,7 +60,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-IA"
   },
   "US-KS": {
-    "title": "matt nagy",
+    "title": "eric bieniemy",
     "link": "https://trends.google.com/trending/rss?geo=US-KS"
   },
   "US-KY": {
@@ -68,7 +68,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-KY"
   },
   "US-LA": {
-    "title": "silver price today",
+    "title": "dolly parton",
     "link": "https://trends.google.com/trending/rss?geo=US-LA"
   },
   "US-ME": {
@@ -76,15 +76,15 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ME"
   },
   "US-MD": {
-    "title": "eric bieniemy",
-    "link": "https://trends.google.com/trending/rss?geo=US-MD"
+    "title": null,
+    "link": null
   },
   "US-MA": {
     "title": "tessa thompson",
     "link": "https://trends.google.com/trending/rss?geo=US-MA"
   },
   "US-MI": {
-    "title": "tessa thompson",
+    "title": "snow squall",
     "link": "https://trends.google.com/trending/rss?geo=US-MI"
   },
   "US-MN": {
@@ -92,8 +92,8 @@
     "link": "https://trends.google.com/trending/rss?geo=US-MN"
   },
   "US-MS": {
-    "title": "sean mcdermott",
-    "link": "https://trends.google.com/trending/rss?geo=US-MS"
+    "title": null,
+    "link": null
   },
   "US-MO": {
     "title": "eric bieniemy",
@@ -108,7 +108,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NE"
   },
   "US-NV": {
-    "title": "miami vs indiana",
+    "title": "indiana vs miami",
     "link": "https://trends.google.com/trending/rss?geo=US-NV"
   },
   "US-NH": {
@@ -116,7 +116,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NH"
   },
   "US-NJ": {
-    "title": "cam newton",
+    "title": "trump letter to norway",
     "link": "https://trends.google.com/trending/rss?geo=US-NJ"
   },
   "US-NM": {
@@ -124,11 +124,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NM"
   },
   "US-NY": {
-    "title": "mike lafleur",
+    "title": "cam newton",
     "link": "https://trends.google.com/trending/rss?geo=US-NY"
   },
   "US-NC": {
-    "title": "eric bieniemy",
+    "title": "klint kubiak",
     "link": "https://trends.google.com/trending/rss?geo=US-NC"
   },
   "US-ND": {
@@ -136,15 +136,15 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ND"
   },
   "US-OH": {
-    "title": "eric bieniemy",
-    "link": "https://trends.google.com/trending/rss?geo=US-OH"
+    "title": null,
+    "link": null
   },
   "US-OK": {
     "title": "sean mcdermott",
     "link": "https://trends.google.com/trending/rss?geo=US-OK"
   },
   "US-OR": {
-    "title": "sean mcdermott",
+    "title": "national championship 2026",
     "link": "https://trends.google.com/trending/rss?geo=US-OR"
   },
   "US-PA": {
@@ -152,8 +152,8 @@
     "link": "https://trends.google.com/trending/rss?geo=US-PA"
   },
   "US-RI": {
-    "title": "sean mcdermott",
-    "link": "https://trends.google.com/trending/rss?geo=US-RI"
+    "title": null,
+    "link": null
   },
   "US-SC": {
     "title": "mlk parade charleston sc",
@@ -168,7 +168,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-TN"
   },
   "US-TX": {
-    "title": "matt nagy",
+    "title": "joe brady",
     "link": "https://trends.google.com/trending/rss?geo=US-TX"
   },
   "US-UT": {
