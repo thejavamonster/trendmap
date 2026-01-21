@@ -4,8 +4,8 @@
     "link": "https://trends.google.com/trending/rss?geo=US-AL"
   },
   "US-AK": {
-    "title": "aurora forecast",
-    "link": "https://trends.google.com/trending/rss?geo=US-AK"
+    "title": null,
+    "link": null
   },
   "US-AZ": {
     "title": "greenland",
@@ -16,15 +16,15 @@
     "link": "https://trends.google.com/trending/rss?geo=US-AR"
   },
   "US-CA": {
-    "title": "marseille fc",
-    "link": "https://trends.google.com/trending/rss?geo=US-CA"
+    "title": null,
+    "link": null
   },
   "US-CO": {
     "title": "chelsea vs pafos",
     "link": "https://trends.google.com/trending/rss?geo=US-CO"
   },
   "US-CT": {
-    "title": "chelsea vs pafos",
+    "title": "barcelona vs",
     "link": "https://trends.google.com/trending/rss?geo=US-CT"
   },
   "US-DE": {
@@ -32,12 +32,12 @@
     "link": "https://trends.google.com/trending/rss?geo=US-DE"
   },
   "US-FL": {
-    "title": "nasdaq today",
+    "title": "vanna white",
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
-    "title": "tommy rees",
-    "link": "https://trends.google.com/trending/rss?geo=US-GA"
+    "title": null,
+    "link": null
   },
   "US-HI": {
     "title": "weather",
@@ -56,7 +56,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-IN"
   },
   "US-IA": {
-    "title": "high wind warning",
+    "title": "barcelona",
     "link": "https://trends.google.com/trending/rss?geo=US-IA"
   },
   "US-KS": {
@@ -68,7 +68,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-KY"
   },
   "US-LA": {
-    "title": "barcelona",
+    "title": "uefa champions league",
     "link": "https://trends.google.com/trending/rss?geo=US-LA"
   },
   "US-ME": {
@@ -80,15 +80,15 @@
     "link": "https://trends.google.com/trending/rss?geo=US-MD"
   },
   "US-MA": {
-    "title": "atalanta vs athletic club",
-    "link": "https://trends.google.com/trending/rss?geo=US-MA"
+    "title": null,
+    "link": null
   },
   "US-MI": {
     "title": "champions league standings",
     "link": "https://trends.google.com/trending/rss?geo=US-MI"
   },
   "US-MN": {
-    "title": "champions league standings",
+    "title": "ucl",
     "link": "https://trends.google.com/trending/rss?geo=US-MN"
   },
   "US-MS": {
@@ -96,7 +96,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-MS"
   },
   "US-MO": {
-    "title": "greenland",
+    "title": "barca",
     "link": "https://trends.google.com/trending/rss?geo=US-MO"
   },
   "US-MT": {
@@ -108,8 +108,8 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NE"
   },
   "US-NV": {
-    "title": "marseille vs liverpool",
-    "link": "https://trends.google.com/trending/rss?geo=US-NV"
+    "title": null,
+    "link": null
   },
   "US-NH": {
     "title": "extreme cold watch",
@@ -120,27 +120,27 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NJ"
   },
   "US-NM": {
-    "title": "slavia praga - barcelona",
+    "title": "slavia praha vs barcelona",
     "link": "https://trends.google.com/trending/rss?geo=US-NM"
   },
   "US-NY": {
-    "title": "nyc restaurant week 2026",
-    "link": "https://trends.google.com/trending/rss?geo=US-NY"
+    "title": null,
+    "link": null
   },
   "US-NC": {
-    "title": "greenland",
-    "link": "https://trends.google.com/trending/rss?geo=US-NC"
+    "title": null,
+    "link": null
   },
   "US-ND": {
     "title": "extreme cold warning",
     "link": "https://trends.google.com/trending/rss?geo=US-ND"
   },
   "US-OH": {
-    "title": "dow",
+    "title": "tommy rees",
     "link": "https://trends.google.com/trending/rss?geo=US-OH"
   },
   "US-OK": {
-    "title": "champions league",
+    "title": "barcelona",
     "link": "https://trends.google.com/trending/rss?geo=US-OK"
   },
   "US-OR": {
@@ -156,7 +156,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-RI"
   },
   "US-SC": {
-    "title": "usc student death",
+    "title": "greenland",
     "link": "https://trends.google.com/trending/rss?geo=US-SC"
   },
   "US-SD": {
@@ -168,11 +168,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-TN"
   },
   "US-TX": {
-    "title": "juventus",
-    "link": "https://trends.google.com/trending/rss?geo=US-TX"
+    "title": null,
+    "link": null
   },
   "US-UT": {
-    "title": "barcelona",
+    "title": "uefa champions league",
     "link": "https://trends.google.com/trending/rss?geo=US-UT"
   },
   "US-VT": {
@@ -180,11 +180,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-VT"
   },
   "US-VA": {
-    "title": "chelsea - pafos",
+    "title": "atalanta vs athletic club",
     "link": "https://trends.google.com/trending/rss?geo=US-VA"
   },
   "US-WA": {
-    "title": "champions league schedule",
+    "title": "barca",
     "link": "https://trends.google.com/trending/rss?geo=US-WA"
   },
   "US-WV": {
@@ -192,7 +192,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-WV"
   },
   "US-WI": {
-    "title": "marseille vs liverpool",
+    "title": "greenland",
     "link": "https://trends.google.com/trending/rss?geo=US-WI"
   },
   "US-WY": {
