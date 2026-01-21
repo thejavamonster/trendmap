@@ -8,11 +8,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-AK"
   },
   "US-AZ": {
-    "title": "trump",
+    "title": "air force one",
     "link": "https://trends.google.com/trending/rss?geo=US-AZ"
   },
   "US-AR": {
-    "title": "winter storm watch",
+    "title": "accuweather",
     "link": "https://trends.google.com/trending/rss?geo=US-AR"
   },
   "US-CA": {
@@ -24,7 +24,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-CO"
   },
   "US-CT": {
-    "title": "ct weather",
+    "title": "fox news",
     "link": "https://trends.google.com/trending/rss?geo=US-CT"
   },
   "US-DE": {
@@ -32,11 +32,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-DE"
   },
   "US-FL": {
-    "title": "dow futures",
+    "title": "nasa artemis ii launch pad",
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
-    "title": "noaa weather",
+    "title": "trump news",
     "link": "https://trends.google.com/trending/rss?geo=US-GA"
   },
   "US-HI": {
@@ -48,15 +48,15 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ID"
   },
   "US-IL": {
-    "title": "extreme cold watch",
+    "title": "noaa weather",
     "link": "https://trends.google.com/trending/rss?geo=US-IL"
   },
   "US-IN": {
-    "title": "the weather channel",
+    "title": "winter storm watch",
     "link": "https://trends.google.com/trending/rss?geo=US-IN"
   },
   "US-IA": {
-    "title": "extreme cold watch",
+    "title": "wind advisory",
     "link": "https://trends.google.com/trending/rss?geo=US-IA"
   },
   "US-KS": {
@@ -68,7 +68,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-KY"
   },
   "US-LA": {
-    "title": "donald trump",
+    "title": "katc weather",
     "link": "https://trends.google.com/trending/rss?geo=US-LA"
   },
   "US-ME": {
@@ -76,19 +76,19 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ME"
   },
   "US-MD": {
-    "title": "weather baltimore",
+    "title": "trump",
     "link": "https://trends.google.com/trending/rss?geo=US-MD"
   },
   "US-MA": {
-    "title": "air force one",
+    "title": "wcvb weather",
     "link": "https://trends.google.com/trending/rss?geo=US-MA"
   },
   "US-MI": {
-    "title": "the weather channel",
+    "title": "ann arbor public schools",
     "link": "https://trends.google.com/trending/rss?geo=US-MI"
   },
   "US-MN": {
-    "title": "extreme cold watch",
+    "title": "wordle today",
     "link": "https://trends.google.com/trending/rss?geo=US-MN"
   },
   "US-MS": {
@@ -116,7 +116,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NH"
   },
   "US-NJ": {
-    "title": "6abc weather",
+    "title": "ny rangers",
     "link": "https://trends.google.com/trending/rss?geo=US-NJ"
   },
   "US-NM": {
@@ -124,19 +124,19 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NM"
   },
   "US-NY": {
-    "title": "winter weather advisory",
+    "title": "noaa weather",
     "link": "https://trends.google.com/trending/rss?geo=US-NY"
   },
   "US-NC": {
-    "title": "dow futures",
+    "title": "smu vs wake forest",
     "link": "https://trends.google.com/trending/rss?geo=US-NC"
   },
   "US-ND": {
-    "title": "timberwolves vs jazz",
+    "title": "extreme cold watch",
     "link": "https://trends.google.com/trending/rss?geo=US-ND"
   },
   "US-OH": {
-    "title": "winter weather advisory",
+    "title": "school delays",
     "link": "https://trends.google.com/trending/rss?geo=US-OH"
   },
   "US-OK": {
@@ -148,7 +148,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-OR"
   },
   "US-PA": {
-    "title": "dallas cowboys",
+    "title": "school closings",
     "link": "https://trends.google.com/trending/rss?geo=US-PA"
   },
   "US-RI": {
@@ -156,7 +156,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-RI"
   },
   "US-SC": {
-    "title": "warriors",
+    "title": "noaa weather",
     "link": "https://trends.google.com/trending/rss?geo=US-SC"
   },
   "US-SD": {
@@ -180,15 +180,15 @@
     "link": "https://trends.google.com/trending/rss?geo=US-VT"
   },
   "US-VA": {
-    "title": "cnn",
+    "title": "wsls weather",
     "link": "https://trends.google.com/trending/rss?geo=US-VA"
   },
   "US-WA": {
-    "title": "heat vs kings",
+    "title": "aurora borealis",
     "link": "https://trends.google.com/trending/rss?geo=US-WA"
   },
   "US-WV": {
-    "title": "usha vance",
+    "title": "the weather channel",
     "link": "https://trends.google.com/trending/rss?geo=US-WV"
   },
   "US-WI": {
