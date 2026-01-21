@@ -20,11 +20,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-CA"
   },
   "US-CO": {
-    "title": "nba scores",
+    "title": "air force one",
     "link": "https://trends.google.com/trending/rss?geo=US-CO"
   },
   "US-CT": {
-    "title": "fox news",
+    "title": "wfsb weather",
     "link": "https://trends.google.com/trending/rss?geo=US-CT"
   },
   "US-DE": {
@@ -48,7 +48,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ID"
   },
   "US-IL": {
-    "title": "noaa weather",
+    "title": "dow futures",
     "link": "https://trends.google.com/trending/rss?geo=US-IL"
   },
   "US-IN": {
@@ -56,7 +56,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-IN"
   },
   "US-IA": {
-    "title": "kwwl weather",
+    "title": "kwwl",
     "link": "https://trends.google.com/trending/rss?geo=US-IA"
   },
   "US-KS": {
@@ -88,7 +88,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-MI"
   },
   "US-MN": {
-    "title": "dow futures",
+    "title": "extreme cold watch",
     "link": "https://trends.google.com/trending/rss?geo=US-MN"
   },
   "US-MS": {
@@ -144,11 +144,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-OK"
   },
   "US-OR": {
-    "title": "trump",
+    "title": "air force one",
     "link": "https://trends.google.com/trending/rss?geo=US-OR"
   },
   "US-PA": {
-    "title": "strands nyt",
+    "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=US-PA"
   },
   "US-RI": {
