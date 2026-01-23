@@ -8,8 +8,8 @@
     "link": null
   },
   "US-AZ": {
-    "title": "coco gauff",
-    "link": "https://trends.google.com/trending/rss?geo=US-AZ"
+    "title": null,
+    "link": null
   },
   "US-AR": {
     "title": "lakers vs clippers",
@@ -48,11 +48,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ID"
   },
   "US-IL": {
-    "title": "tree of life pittsburgh",
-    "link": "https://trends.google.com/trending/rss?geo=US-IL"
+    "title": null,
+    "link": null
   },
   "US-IN": {
-    "title": "spurs vs jazz",
+    "title": "winter storm warning",
     "link": "https://trends.google.com/trending/rss?geo=US-IN"
   },
   "US-IA": {
@@ -140,7 +140,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-OH"
   },
   "US-OK": {
-    "title": "oklahoma weather",
+    "title": "heat vs trail blazers",
     "link": "https://trends.google.com/trending/rss?geo=US-OK"
   },
   "US-OR": {
