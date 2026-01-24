@@ -1,6 +1,6 @@
 {
   "US-AL": {
-    "title": "road closures huntsville al",
+    "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=US-AL"
   },
   "US-AK": {
@@ -8,23 +8,23 @@
     "link": "https://trends.google.com/trending/rss?geo=US-AK"
   },
   "US-AZ": {
-    "title": "weather",
-    "link": "https://trends.google.com/trending/rss?geo=US-AZ"
+    "title": null,
+    "link": null
   },
   "US-AR": {
-    "title": "clima",
+    "title": "walmart near me",
     "link": "https://trends.google.com/trending/rss?geo=US-AR"
   },
   "US-CA": {
-    "title": "fulham - brighton",
+    "title": "valencia c. f. - rcd espanyol",
     "link": "https://trends.google.com/trending/rss?geo=US-CA"
   },
   "US-CO": {
-    "title": "nfl games this weekend",
+    "title": "man city vs wolves",
     "link": "https://trends.google.com/trending/rss?geo=US-CO"
   },
   "US-CT": {
-    "title": "exploding trees",
+    "title": "man city vs wolves",
     "link": "https://trends.google.com/trending/rss?geo=US-CT"
   },
   "US-DE": {
@@ -32,11 +32,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-DE"
   },
   "US-FL": {
-    "title": "valencia c. f. - rcd espanyol",
+    "title": "valencia vs espanyol",
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
-    "title": "rayo vallecano - osasuna",
+    "title": "burnley vs tottenham",
     "link": "https://trends.google.com/trending/rss?geo=US-GA"
   },
   "US-HI": {
@@ -44,15 +44,15 @@
     "link": "https://trends.google.com/trending/rss?geo=US-HI"
   },
   "US-ID": {
-    "title": "ufc 324",
-    "link": "https://trends.google.com/trending/rss?geo=US-ID"
+    "title": null,
+    "link": null
   },
   "US-IL": {
-    "title": "bayern vs augsburg",
+    "title": "tottenham",
     "link": "https://trends.google.com/trending/rss?geo=US-IL"
   },
   "US-IN": {
-    "title": "bloomington weather",
+    "title": "man city vs wolves",
     "link": "https://trends.google.com/trending/rss?geo=US-IN"
   },
   "US-IA": {
@@ -68,7 +68,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-KY"
   },
   "US-LA": {
-    "title": "entergy",
+    "title": "justin gaethje",
     "link": "https://trends.google.com/trending/rss?geo=US-LA"
   },
   "US-ME": {
@@ -84,11 +84,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-MA"
   },
   "US-MI": {
-    "title": "dallas weather",
+    "title": "nfl games this weekend",
     "link": "https://trends.google.com/trending/rss?geo=US-MI"
   },
   "US-MN": {
-    "title": "west ham vs sunderland",
+    "title": "man city vs wolves",
     "link": "https://trends.google.com/trending/rss?geo=US-MN"
   },
   "US-MS": {
@@ -96,7 +96,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-MS"
   },
   "US-MO": {
-    "title": "paramount plus",
+    "title": "nfl games this weekend",
     "link": "https://trends.google.com/trending/rss?geo=US-MO"
   },
   "US-MT": {
@@ -108,7 +108,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NE"
   },
   "US-NV": {
-    "title": "\u5f20\u53c8\u4fa0",
+    "title": "weather las vegas",
     "link": "https://trends.google.com/trending/rss?geo=US-NV"
   },
   "US-NH": {
@@ -124,16 +124,16 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NM"
   },
   "US-NY": {
-    "title": "fulham vs brighton",
+    "title": "ticketmaster",
     "link": "https://trends.google.com/trending/rss?geo=US-NY"
   },
   "US-NC": {
-    "title": "bayern vs augsburg",
+    "title": "margot robbie",
     "link": "https://trends.google.com/trending/rss?geo=US-NC"
   },
   "US-ND": {
-    "title": "ryan wedding",
-    "link": "https://trends.google.com/trending/rss?geo=US-ND"
+    "title": null,
+    "link": null
   },
   "US-OH": {
     "title": "man city vs wolves",
@@ -144,11 +144,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-OK"
   },
   "US-OR": {
-    "title": "snow storm",
-    "link": "https://trends.google.com/trending/rss?geo=US-OR"
+    "title": null,
+    "link": null
   },
   "US-PA": {
-    "title": "patriots vs broncos",
+    "title": "burnley vs tottenham",
     "link": "https://trends.google.com/trending/rss?geo=US-PA"
   },
   "US-RI": {
@@ -164,11 +164,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-SD"
   },
   "US-TN": {
-    "title": "french toast recipe",
+    "title": "man city vs wolves",
     "link": "https://trends.google.com/trending/rss?geo=US-TN"
   },
   "US-TX": {
-    "title": "valencia c. f. - rcd espanyol",
+    "title": "bayern munich",
     "link": "https://trends.google.com/trending/rss?geo=US-TX"
   },
   "US-UT": {
@@ -180,16 +180,16 @@
     "link": "https://trends.google.com/trending/rss?geo=US-VT"
   },
   "US-VA": {
-    "title": "bayern vs augsburg",
-    "link": "https://trends.google.com/trending/rss?geo=US-VA"
+    "title": null,
+    "link": null
   },
   "US-WA": {
-    "title": "news today",
-    "link": "https://trends.google.com/trending/rss?geo=US-WA"
+    "title": null,
+    "link": null
   },
   "US-WV": {
-    "title": "weather",
-    "link": "https://trends.google.com/trending/rss?geo=US-WV"
+    "title": null,
+    "link": null
   },
   "US-WI": {
     "title": "nfl games this weekend",
