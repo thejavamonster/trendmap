@@ -68,11 +68,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-KY"
   },
   "US-LA": {
-    "title": "justin gaethje",
+    "title": "entergy",
     "link": "https://trends.google.com/trending/rss?geo=US-LA"
   },
   "US-ME": {
-    "title": "weather tomorrow",
+    "title": "ufc",
     "link": "https://trends.google.com/trending/rss?geo=US-ME"
   },
   "US-MD": {
@@ -88,8 +88,8 @@
     "link": "https://trends.google.com/trending/rss?geo=US-MI"
   },
   "US-MN": {
-    "title": "ice shooting minneapolis",
-    "link": "https://trends.google.com/trending/rss?geo=US-MN"
+    "title": null,
+    "link": null
   },
   "US-MS": {
     "title": "mdot",
@@ -136,7 +136,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ND"
   },
   "US-OH": {
-    "title": "man city vs wolves",
+    "title": "burnley vs tottenham",
     "link": "https://trends.google.com/trending/rss?geo=US-OH"
   },
   "US-OK": {
@@ -144,7 +144,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-OK"
   },
   "US-OR": {
-    "title": "australian open 2026",
+    "title": "epl",
     "link": "https://trends.google.com/trending/rss?geo=US-OR"
   },
   "US-PA": {
