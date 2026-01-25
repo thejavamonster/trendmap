@@ -16,7 +16,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-AR"
   },
   "US-CA": {
-    "title": "russell westbrook",
+    "title": "padma lakshmi",
     "link": "https://trends.google.com/trending/rss?geo=US-CA"
   },
   "US-CO": {
@@ -32,7 +32,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-DE"
   },
   "US-FL": {
-    "title": "marshals show",
+    "title": "padma lakshmi",
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
@@ -52,7 +52,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-IL"
   },
   "US-IN": {
-    "title": "where is the super bowl 2026",
+    "title": "winter storm warning",
     "link": "https://trends.google.com/trending/rss?geo=US-IN"
   },
   "US-IA": {
@@ -76,11 +76,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ME"
   },
   "US-MD": {
-    "title": "superbowl",
+    "title": "pga tour",
     "link": "https://trends.google.com/trending/rss?geo=US-MD"
   },
   "US-MA": {
-    "title": "taylor sheridan",
+    "title": "padma lakshmi",
     "link": "https://trends.google.com/trending/rss?geo=US-MA"
   },
   "US-MI": {
@@ -96,11 +96,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-MS"
   },
   "US-MO": {
-    "title": "scottie scheffler",
+    "title": "where is the super bowl 2026",
     "link": "https://trends.google.com/trending/rss?geo=US-MO"
   },
   "US-MT": {
-    "title": "2025 afc championship game",
+    "title": "rams vs seahawks",
     "link": "https://trends.google.com/trending/rss?geo=US-MT"
   },
   "US-NE": {
@@ -116,7 +116,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NH"
   },
   "US-NJ": {
-    "title": "tony romo",
+    "title": "where is the super bowl 2026",
     "link": "https://trends.google.com/trending/rss?geo=US-NJ"
   },
   "US-NM": {
@@ -124,15 +124,15 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NM"
   },
   "US-NY": {
-    "title": "luke grimes",
-    "link": "https://trends.google.com/trending/rss?geo=US-NY"
+    "title": null,
+    "link": null
   },
   "US-NC": {
-    "title": "christopher nolan",
-    "link": "https://trends.google.com/trending/rss?geo=US-NC"
+    "title": null,
+    "link": null
   },
   "US-ND": {
-    "title": "super bowl 2026",
+    "title": "rams vs seahawks",
     "link": "https://trends.google.com/trending/rss?geo=US-ND"
   },
   "US-OH": {
@@ -140,15 +140,15 @@
     "link": "https://trends.google.com/trending/rss?geo=US-OH"
   },
   "US-OK": {
-    "title": "warriors vs timberwolves",
-    "link": "https://trends.google.com/trending/rss?geo=US-OK"
+    "title": null,
+    "link": null
   },
   "US-OR": {
-    "title": "warriors vs timberwolves",
+    "title": "where is the super bowl 2026",
     "link": "https://trends.google.com/trending/rss?geo=US-OR"
   },
   "US-PA": {
-    "title": "taylor sheridan",
+    "title": "penguins vs canucks",
     "link": "https://trends.google.com/trending/rss?geo=US-PA"
   },
   "US-RI": {
@@ -168,7 +168,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-TN"
   },
   "US-TX": {
-    "title": "taylor sheridan",
+    "title": "padma lakshmi",
     "link": "https://trends.google.com/trending/rss?geo=US-TX"
   },
   "US-UT": {
@@ -180,12 +180,12 @@
     "link": "https://trends.google.com/trending/rss?geo=US-VT"
   },
   "US-VA": {
-    "title": "where is the super bowl 2026",
+    "title": "how much snow did dc get",
     "link": "https://trends.google.com/trending/rss?geo=US-VA"
   },
   "US-WA": {
-    "title": "tony romo",
-    "link": "https://trends.google.com/trending/rss?geo=US-WA"
+    "title": null,
+    "link": null
   },
   "US-WV": {
     "title": "rams vs seahawks",
@@ -196,7 +196,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-WI"
   },
   "US-WY": {
-    "title": "2025 afc championship game",
+    "title": "super bowl 2026",
     "link": "https://trends.google.com/trending/rss?geo=US-WY"
   }
 }
