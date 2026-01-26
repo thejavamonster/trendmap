@@ -28,15 +28,15 @@
     "link": "https://trends.google.com/trending/rss?geo=US-CT"
   },
   "US-DE": {
-    "title": "cnn",
+    "title": "wdel",
     "link": "https://trends.google.com/trending/rss?geo=US-DE"
   },
   "US-FL": {
-    "title": "ben shelton",
+    "title": "weather radar",
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
-    "title": "videos",
+    "title": "fox 5",
     "link": "https://trends.google.com/trending/rss?geo=US-GA"
   },
   "US-HI": {
@@ -48,7 +48,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ID"
   },
   "US-IL": {
-    "title": "illinois",
+    "title": "republic day",
     "link": "https://trends.google.com/trending/rss?geo=US-IL"
   },
   "US-IN": {
@@ -60,7 +60,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-IA"
   },
   "US-KS": {
-    "title": "memory of a killer",
+    "title": "extreme cold warning",
     "link": "https://trends.google.com/trending/rss?geo=US-KS"
   },
   "US-KY": {
@@ -68,7 +68,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-KY"
   },
   "US-LA": {
-    "title": "google",
+    "title": "cnn",
     "link": "https://trends.google.com/trending/rss?geo=US-LA"
   },
   "US-ME": {
@@ -80,11 +80,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-MD"
   },
   "US-MA": {
-    "title": "power outages",
+    "title": "wbz",
     "link": "https://trends.google.com/trending/rss?geo=US-MA"
   },
   "US-MI": {
-    "title": "how much snow did we get",
+    "title": "wzzm13 closings",
     "link": "https://trends.google.com/trending/rss?geo=US-MI"
   },
   "US-MN": {
@@ -116,7 +116,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NH"
   },
   "US-NJ": {
-    "title": "nj transit updates",
+    "title": "new jersey transit",
     "link": "https://trends.google.com/trending/rss?geo=US-NJ"
   },
   "US-NM": {
@@ -124,7 +124,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NM"
   },
   "US-NY": {
-    "title": "travel advisory",
+    "title": "buffalo",
     "link": "https://trends.google.com/trending/rss?geo=US-NY"
   },
   "US-NC": {
@@ -136,7 +136,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ND"
   },
   "US-OH": {
-    "title": "channel 10 news",
+    "title": "closings",
     "link": "https://trends.google.com/trending/rss?geo=US-OH"
   },
   "US-OK": {
@@ -152,7 +152,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-PA"
   },
   "US-RI": {
-    "title": "matthew stafford",
+    "title": "ri snow totals",
     "link": "https://trends.google.com/trending/rss?geo=US-RI"
   },
   "US-SC": {
@@ -164,7 +164,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-SD"
   },
   "US-TN": {
-    "title": "knoxville road conditions",
+    "title": "wbir",
     "link": "https://trends.google.com/trending/rss?geo=US-TN"
   },
   "US-TX": {
