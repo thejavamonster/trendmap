@@ -4,8 +4,8 @@
     "link": "https://trends.google.com/trending/rss?geo=US-AL"
   },
   "US-AK": {
-    "title": "anchorage school district",
-    "link": "https://trends.google.com/trending/rss?geo=US-AK"
+    "title": null,
+    "link": null
   },
   "US-AZ": {
     "title": "spencer pratt",
@@ -16,27 +16,27 @@
     "link": "https://trends.google.com/trending/rss?geo=US-AR"
   },
   "US-CA": {
-    "title": "apple ios 26.2 update",
+    "title": "dalton knecht",
     "link": "https://trends.google.com/trending/rss?geo=US-CA"
   },
   "US-CO": {
-    "title": "todd monken",
-    "link": "https://trends.google.com/trending/rss?geo=US-CO"
-  },
-  "US-CT": {
-    "title": "giannis antetokounmpo",
-    "link": "https://trends.google.com/trending/rss?geo=US-CT"
-  },
-  "US-DE": {
     "title": null,
     "link": null
   },
+  "US-CT": {
+    "title": "mcdonald&apos;s",
+    "link": "https://trends.google.com/trending/rss?geo=US-CT"
+  },
+  "US-DE": {
+    "title": "clima",
+    "link": "https://trends.google.com/trending/rss?geo=US-DE"
+  },
   "US-FL": {
-    "title": "jim schwartz",
+    "title": "intuition ale works",
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
-    "title": "jim schwartz",
+    "title": "shirley raines",
     "link": "https://trends.google.com/trending/rss?geo=US-GA"
   },
   "US-HI": {
@@ -48,7 +48,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ID"
   },
   "US-IL": {
-    "title": "patrick reed",
+    "title": "mcdonald&apos;s",
     "link": "https://trends.google.com/trending/rss?geo=US-IL"
   },
   "US-IN": {
@@ -64,8 +64,8 @@
     "link": "https://trends.google.com/trending/rss?geo=US-KS"
   },
   "US-KY": {
-    "title": null,
-    "link": null
+    "title": "todd monken",
+    "link": "https://trends.google.com/trending/rss?geo=US-KY"
   },
   "US-LA": {
     "title": "todd monken",
@@ -76,27 +76,27 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ME"
   },
   "US-MD": {
-    "title": "jim schwartz",
+    "title": "shirley raines",
     "link": "https://trends.google.com/trending/rss?geo=US-MD"
   },
   "US-MA": {
-    "title": "government shutdown",
+    "title": "mcdonald&apos;s",
     "link": "https://trends.google.com/trending/rss?geo=US-MA"
   },
   "US-MI": {
-    "title": "jim schwartz",
+    "title": "shirley raines",
     "link": "https://trends.google.com/trending/rss?geo=US-MI"
   },
   "US-MN": {
-    "title": null,
-    "link": null
+    "title": "nicki minaj",
+    "link": "https://trends.google.com/trending/rss?geo=US-MN"
   },
   "US-MS": {
-    "title": "todd monken",
+    "title": "ray j",
     "link": "https://trends.google.com/trending/rss?geo=US-MS"
   },
   "US-MO": {
-    "title": "ray j",
+    "title": "nicki minaj",
     "link": "https://trends.google.com/trending/rss?geo=US-MO"
   },
   "US-MT": {
@@ -108,7 +108,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NE"
   },
   "US-NV": {
-    "title": "todd monken",
+    "title": "shirley raines",
     "link": "https://trends.google.com/trending/rss?geo=US-NV"
   },
   "US-NH": {
@@ -116,7 +116,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NH"
   },
   "US-NJ": {
-    "title": "angel chivilli",
+    "title": "mcdonald&apos;s",
     "link": "https://trends.google.com/trending/rss?geo=US-NJ"
   },
   "US-NM": {
@@ -124,11 +124,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NM"
   },
   "US-NY": {
-    "title": "raheem sterling",
+    "title": "cvna stock",
     "link": "https://trends.google.com/trending/rss?geo=US-NY"
   },
   "US-NC": {
-    "title": "patrick reed",
+    "title": "amazon layoffs employees",
     "link": "https://trends.google.com/trending/rss?geo=US-NC"
   },
   "US-ND": {
@@ -136,11 +136,11 @@
     "link": null
   },
   "US-OH": {
-    "title": null,
-    "link": null
+    "title": "shirley raines",
+    "link": "https://trends.google.com/trending/rss?geo=US-OH"
   },
   "US-OK": {
-    "title": "todd monken",
+    "title": "ajay pittman",
     "link": "https://trends.google.com/trending/rss?geo=US-OK"
   },
   "US-OR": {
@@ -148,7 +148,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-OR"
   },
   "US-PA": {
-    "title": "breeze airways",
+    "title": "shirley raines",
     "link": "https://trends.google.com/trending/rss?geo=US-PA"
   },
   "US-RI": {
@@ -164,11 +164,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-SD"
   },
   "US-TN": {
-    "title": "mscs",
+    "title": "shelby county schools",
     "link": "https://trends.google.com/trending/rss?geo=US-TN"
   },
   "US-TX": {
-    "title": "jim schwartz",
+    "title": "champions league schedule",
     "link": "https://trends.google.com/trending/rss?geo=US-TX"
   },
   "US-UT": {
@@ -180,19 +180,19 @@
     "link": null
   },
   "US-VA": {
-    "title": "jim schwartz",
+    "title": "shirley raines",
     "link": "https://trends.google.com/trending/rss?geo=US-VA"
   },
   "US-WA": {
-    "title": null,
-    "link": null
+    "title": "mcdonald&apos;s",
+    "link": "https://trends.google.com/trending/rss?geo=US-WA"
   },
   "US-WV": {
     "title": "todd monken",
     "link": "https://trends.google.com/trending/rss?geo=US-WV"
   },
   "US-WI": {
-    "title": "bobby babich",
+    "title": "nicki minaj",
     "link": "https://trends.google.com/trending/rss?geo=US-WI"
   },
   "US-WY": {
