@@ -4,11 +4,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-AL"
   },
   "US-AK": {
-    "title": "anchorage school district",
-    "link": "https://trends.google.com/trending/rss?geo=US-AK"
+    "title": null,
+    "link": null
   },
   "US-AZ": {
-    "title": "netflix",
+    "title": "australian open",
     "link": "https://trends.google.com/trending/rss?geo=US-AZ"
   },
   "US-AR": {
@@ -16,7 +16,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-AR"
   },
   "US-CA": {
-    "title": "pak vs aus",
+    "title": "whatsapp",
     "link": "https://trends.google.com/trending/rss?geo=US-CA"
   },
   "US-CO": {
@@ -32,7 +32,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-DE"
   },
   "US-FL": {
-    "title": "temperature miami",
+    "title": "is it going to snow in florida",
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
@@ -48,7 +48,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ID"
   },
   "US-IL": {
-    "title": "elena rybakina",
+    "title": "pak vs aus",
     "link": "https://trends.google.com/trending/rss?geo=US-IL"
   },
   "US-IN": {
@@ -56,7 +56,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-IN"
   },
   "US-IA": {
-    "title": "warriors vs jazz",
+    "title": "australian open",
     "link": "https://trends.google.com/trending/rss?geo=US-IA"
   },
   "US-KS": {
@@ -64,11 +64,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-KS"
   },
   "US-KY": {
-    "title": "australian open",
+    "title": "gold price today",
     "link": "https://trends.google.com/trending/rss?geo=US-KY"
   },
   "US-LA": {
-    "title": "australian open 2026",
+    "title": "chase",
     "link": "https://trends.google.com/trending/rss?geo=US-LA"
   },
   "US-ME": {
@@ -76,19 +76,19 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ME"
   },
   "US-MD": {
-    "title": "snow this weekend",
+    "title": "gold price",
     "link": "https://trends.google.com/trending/rss?geo=US-MD"
   },
   "US-MA": {
-    "title": "mbta commuter rail",
+    "title": "commuter rail",
     "link": "https://trends.google.com/trending/rss?geo=US-MA"
   },
   "US-MI": {
-    "title": "sydney sweeney",
+    "title": "elena rybakina",
     "link": "https://trends.google.com/trending/rss?geo=US-MI"
   },
   "US-MN": {
-    "title": "tmz",
+    "title": "silver price today",
     "link": "https://trends.google.com/trending/rss?geo=US-MN"
   },
   "US-MS": {
@@ -96,7 +96,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-MS"
   },
   "US-MO": {
-    "title": "x",
+    "title": "australian open",
     "link": "https://trends.google.com/trending/rss?geo=US-MO"
   },
   "US-MT": {
@@ -104,11 +104,11 @@
     "link": null
   },
   "US-NE": {
-    "title": "measles symptoms",
+    "title": "omaha weather",
     "link": "https://trends.google.com/trending/rss?geo=US-NE"
   },
   "US-NV": {
-    "title": "jason momoa",
+    "title": "gold price today",
     "link": "https://trends.google.com/trending/rss?geo=US-NV"
   },
   "US-NH": {
@@ -116,7 +116,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NH"
   },
   "US-NJ": {
-    "title": "pak vs aus",
+    "title": "pakistan vs australia",
     "link": "https://trends.google.com/trending/rss?geo=US-NJ"
   },
   "US-NM": {
@@ -124,7 +124,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NM"
   },
   "US-NY": {
-    "title": "pak vs aus",
+    "title": "playstation plus monthly games",
     "link": "https://trends.google.com/trending/rss?geo=US-NY"
   },
   "US-NC": {
@@ -136,11 +136,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ND"
   },
   "US-OH": {
-    "title": "closings and delays",
+    "title": "melania trump documentary",
     "link": "https://trends.google.com/trending/rss?geo=US-OH"
   },
   "US-OK": {
-    "title": "edmond public schools closed",
+    "title": "school closings",
     "link": "https://trends.google.com/trending/rss?geo=US-OK"
   },
   "US-OR": {
@@ -148,15 +148,15 @@
     "link": "https://trends.google.com/trending/rss?geo=US-OR"
   },
   "US-PA": {
-    "title": "pa lottery",
+    "title": "australian open",
     "link": "https://trends.google.com/trending/rss?geo=US-PA"
   },
   "US-RI": {
-    "title": "nicki minaj",
+    "title": "rhode island energy",
     "link": "https://trends.google.com/trending/rss?geo=US-RI"
   },
   "US-SC": {
-    "title": "australian open",
+    "title": "elena rybakina",
     "link": "https://trends.google.com/trending/rss?geo=US-SC"
   },
   "US-SD": {
@@ -164,7 +164,7 @@
     "link": null
   },
   "US-TN": {
-    "title": "x",
+    "title": "matt lauer",
     "link": "https://trends.google.com/trending/rss?geo=US-TN"
   },
   "US-TX": {
@@ -180,7 +180,7 @@
     "link": null
   },
   "US-VA": {
-    "title": "melania trump documentary",
+    "title": "pak vs aus",
     "link": "https://trends.google.com/trending/rss?geo=US-VA"
   },
   "US-WA": {
@@ -192,7 +192,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-WV"
   },
   "US-WI": {
-    "title": "australian open",
+    "title": "australian open 2026",
     "link": "https://trends.google.com/trending/rss?geo=US-WI"
   },
   "US-WY": {
