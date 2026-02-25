@@ -1,26 +1,26 @@
 {
   "US-AL": {
-    "title": "ikea",
+    "title": "punch the monkey",
     "link": "https://trends.google.com/trending/rss?geo=US-AL"
   },
   "US-AK": {
-    "title": "state of the union",
+    "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=US-AK"
   },
   "US-AZ": {
-    "title": "dove cameron",
-    "link": "https://trends.google.com/trending/rss?geo=US-AZ"
+    "title": null,
+    "link": null
   },
   "US-AR": {
     "title": "fox news",
     "link": "https://trends.google.com/trending/rss?geo=US-AR"
   },
   "US-CA": {
-    "title": "casey means",
+    "title": "andrey rublev",
     "link": "https://trends.google.com/trending/rss?geo=US-CA"
   },
   "US-CO": {
-    "title": "harden",
+    "title": "college board",
     "link": "https://trends.google.com/trending/rss?geo=US-CO"
   },
   "US-CT": {
@@ -32,11 +32,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-DE"
   },
   "US-FL": {
-    "title": "bill gates",
+    "title": "priyanka chopra",
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
-    "title": "new zealand vs sri lanka",
+    "title": "andrey rublev",
     "link": "https://trends.google.com/trending/rss?geo=US-GA"
   },
   "US-HI": {
@@ -48,7 +48,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ID"
   },
   "US-IL": {
-    "title": "new zealand vs sri lanka",
+    "title": "metallica",
     "link": "https://trends.google.com/trending/rss?geo=US-IL"
   },
   "US-IN": {
@@ -76,11 +76,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ME"
   },
   "US-MD": {
-    "title": "harden",
+    "title": "casey means",
     "link": "https://trends.google.com/trending/rss?geo=US-MD"
   },
   "US-MA": {
-    "title": "s",
+    "title": "taunton house explosion",
     "link": "https://trends.google.com/trending/rss?geo=US-MA"
   },
   "US-MI": {
@@ -88,7 +88,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-MI"
   },
   "US-MN": {
-    "title": "harden",
+    "title": "james cook",
     "link": "https://trends.google.com/trending/rss?geo=US-MN"
   },
   "US-MS": {
@@ -108,7 +108,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NE"
   },
   "US-NV": {
-    "title": "gemini",
+    "title": "metallica sphere",
     "link": "https://trends.google.com/trending/rss?geo=US-NV"
   },
   "US-NH": {
@@ -116,15 +116,15 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NH"
   },
   "US-NJ": {
-    "title": "bill gates",
+    "title": "casey means",
     "link": "https://trends.google.com/trending/rss?geo=US-NJ"
   },
   "US-NM": {
-    "title": "ai",
-    "link": "https://trends.google.com/trending/rss?geo=US-NM"
+    "title": null,
+    "link": null
   },
   "US-NY": {
-    "title": "priyanka chopra",
+    "title": "powerpoint",
     "link": "https://trends.google.com/trending/rss?geo=US-NY"
   },
   "US-NC": {
@@ -136,7 +136,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ND"
   },
   "US-OH": {
-    "title": "rock and roll hall of fame",
+    "title": "bill gates",
     "link": "https://trends.google.com/trending/rss?geo=US-OH"
   },
   "US-OK": {
@@ -144,11 +144,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-OK"
   },
   "US-OR": {
-    "title": "china",
+    "title": "ilhan omar",
     "link": "https://trends.google.com/trending/rss?geo=US-OR"
   },
   "US-PA": {
-    "title": "wordle nyt",
+    "title": "lauren chapin",
     "link": "https://trends.google.com/trending/rss?geo=US-PA"
   },
   "US-RI": {
@@ -164,11 +164,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-SD"
   },
   "US-TN": {
-    "title": "harden",
+    "title": "morgan county correctional complex",
     "link": "https://trends.google.com/trending/rss?geo=US-TN"
   },
   "US-TX": {
-    "title": "bill gates",
+    "title": "metallica",
     "link": "https://trends.google.com/trending/rss?geo=US-TX"
   },
   "US-UT": {
@@ -180,11 +180,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-VT"
   },
   "US-VA": {
-    "title": "new zealand vs sri lanka",
+    "title": "nz vs sl",
     "link": "https://trends.google.com/trending/rss?geo=US-VA"
   },
   "US-WA": {
-    "title": "james harden",
+    "title": "harden",
     "link": "https://trends.google.com/trending/rss?geo=US-WA"
   },
   "US-WV": {
