@@ -8,7 +8,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-AK"
   },
   "US-AZ": {
-    "title": "monkey",
+    "title": "sonic",
     "link": "https://trends.google.com/trending/rss?geo=US-AZ"
   },
   "US-AR": {
@@ -20,11 +20,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-CA"
   },
   "US-CO": {
-    "title": "scream 7",
+    "title": "fire weather watch",
     "link": "https://trends.google.com/trending/rss?geo=US-CO"
   },
   "US-CT": {
-    "title": "school delays ct",
+    "title": "school closings ct today",
     "link": "https://trends.google.com/trending/rss?geo=US-CT"
   },
   "US-DE": {
@@ -32,11 +32,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-DE"
   },
   "US-FL": {
-    "title": "strawberry festival 2026",
+    "title": "xfinity",
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
-    "title": "west indies vs south africa",
+    "title": "weather today",
     "link": "https://trends.google.com/trending/rss?geo=US-GA"
   },
   "US-HI": {
@@ -52,7 +52,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-IL"
   },
   "US-IN": {
-    "title": "monkey",
+    "title": "indianapolis weather",
     "link": "https://trends.google.com/trending/rss?geo=US-IN"
   },
   "US-IA": {
@@ -64,11 +64,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-KS"
   },
   "US-KY": {
-    "title": "monkey",
+    "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=US-KY"
   },
   "US-LA": {
-    "title": "monkey",
+    "title": "lsu football",
     "link": "https://trends.google.com/trending/rss?geo=US-LA"
   },
   "US-ME": {
@@ -76,19 +76,19 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ME"
   },
   "US-MD": {
-    "title": "cricinfo",
+    "title": "west indies vs south africa",
     "link": "https://trends.google.com/trending/rss?geo=US-MD"
   },
   "US-MA": {
-    "title": "celtics score",
+    "title": "connections hint",
     "link": "https://trends.google.com/trending/rss?geo=US-MA"
   },
   "US-MI": {
-    "title": "jason bateman",
+    "title": "stellantis profit-sharing 2026",
     "link": "https://trends.google.com/trending/rss?geo=US-MI"
   },
   "US-MN": {
-    "title": "mn news",
+    "title": "mshsl boys hockey",
     "link": "https://trends.google.com/trending/rss?geo=US-MN"
   },
   "US-MS": {
@@ -116,7 +116,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NH"
   },
   "US-NJ": {
-    "title": "ind vs zim",
+    "title": "t20 world cup schedule",
     "link": "https://trends.google.com/trending/rss?geo=US-NJ"
   },
   "US-NM": {
@@ -124,11 +124,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NM"
   },
   "US-NY": {
-    "title": "connections hint",
+    "title": "blood moon total lunar eclipse",
     "link": "https://trends.google.com/trending/rss?geo=US-NY"
   },
   "US-NC": {
-    "title": "charlotte weather",
+    "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=US-NC"
   },
   "US-ND": {
@@ -136,7 +136,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ND"
   },
   "US-OH": {
-    "title": "monkey",
+    "title": "cincinnati weather",
     "link": "https://trends.google.com/trending/rss?geo=US-OH"
   },
   "US-OK": {
@@ -144,11 +144,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-OK"
   },
   "US-OR": {
-    "title": "monkey",
+    "title": "wisconsin vs oregon",
     "link": "https://trends.google.com/trending/rss?geo=US-OR"
   },
   "US-PA": {
-    "title": "cricinfo",
+    "title": "bridgerton",
     "link": "https://trends.google.com/trending/rss?geo=US-PA"
   },
   "US-RI": {
@@ -156,7 +156,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-RI"
   },
   "US-SC": {
-    "title": "monkey",
+    "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=US-SC"
   },
   "US-SD": {
@@ -168,7 +168,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-TN"
   },
   "US-TX": {
-    "title": "ind vs zim",
+    "title": "pga tour",
     "link": "https://trends.google.com/trending/rss?geo=US-TX"
   },
   "US-UT": {
@@ -176,15 +176,15 @@
     "link": "https://trends.google.com/trending/rss?geo=US-UT"
   },
   "US-VT": {
-    "title": "weather",
-    "link": "https://trends.google.com/trending/rss?geo=US-VT"
+    "title": null,
+    "link": null
   },
   "US-VA": {
     "title": "west indies vs south africa",
     "link": "https://trends.google.com/trending/rss?geo=US-VA"
   },
   "US-WA": {
-    "title": "monkey",
+    "title": "heidi montag",
     "link": "https://trends.google.com/trending/rss?geo=US-WA"
   },
   "US-WV": {
