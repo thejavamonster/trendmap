@@ -4,7 +4,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-AL"
   },
   "US-AK": {
-    "title": "alaska airlines",
+    "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=US-AK"
   },
   "US-AZ": {
@@ -16,7 +16,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-AR"
   },
   "US-CA": {
-    "title": "valencia c. f. - osasuna",
+    "title": "american express",
     "link": "https://trends.google.com/trending/rss?geo=US-CA"
   },
   "US-CO": {
@@ -24,7 +24,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-CO"
   },
   "US-CT": {
-    "title": "fulham vs tottenham",
+    "title": "premier league",
     "link": "https://trends.google.com/trending/rss?geo=US-CT"
   },
   "US-DE": {
@@ -36,11 +36,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
-    "title": "uss abraham lincoln",
+    "title": "arsenal vs chelsea",
     "link": "https://trends.google.com/trending/rss?geo=US-GA"
   },
   "US-HI": {
-    "title": "hawaiian airlines",
+    "title": "hawaiian air",
     "link": "https://trends.google.com/trending/rss?geo=US-HI"
   },
   "US-ID": {
@@ -48,7 +48,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ID"
   },
   "US-IL": {
-    "title": "uss abraham lincoln",
+    "title": "arsenal vs chelsea",
     "link": "https://trends.google.com/trending/rss?geo=US-IL"
   },
   "US-IN": {
@@ -60,7 +60,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-IA"
   },
   "US-KS": {
-    "title": "weather",
+    "title": "man united vs crystal palace",
     "link": "https://trends.google.com/trending/rss?geo=US-KS"
   },
   "US-KY": {
@@ -76,7 +76,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ME"
   },
   "US-MD": {
-    "title": "valencia c. f. - osasuna",
+    "title": "arsenal vs chelsea",
     "link": "https://trends.google.com/trending/rss?geo=US-MD"
   },
   "US-MA": {
@@ -88,7 +88,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-MI"
   },
   "US-MN": {
-    "title": "fulham vs tottenham",
+    "title": "austin shooting",
     "link": "https://trends.google.com/trending/rss?geo=US-MN"
   },
   "US-MS": {
@@ -96,7 +96,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-MS"
   },
   "US-MO": {
-    "title": "ind vs wi",
+    "title": "premier league",
     "link": "https://trends.google.com/trending/rss?geo=US-MO"
   },
   "US-MT": {
@@ -116,7 +116,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NH"
   },
   "US-NJ": {
-    "title": "valencia c. f. - osasuna",
+    "title": "arsenal vs chelsea",
     "link": "https://trends.google.com/trending/rss?geo=US-NJ"
   },
   "US-NM": {
@@ -128,7 +128,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NY"
   },
   "US-NC": {
-    "title": "when does march madness start",
+    "title": "mahmoud ahmadinejad",
     "link": "https://trends.google.com/trending/rss?geo=US-NC"
   },
   "US-ND": {
@@ -136,7 +136,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ND"
   },
   "US-OH": {
-    "title": "march madness 2026",
+    "title": "arsenal vs chelsea",
     "link": "https://trends.google.com/trending/rss?geo=US-OH"
   },
   "US-OK": {
@@ -168,11 +168,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-TN"
   },
   "US-TX": {
-    "title": "elche vs espanyol",
+    "title": "premier league",
     "link": "https://trends.google.com/trending/rss?geo=US-TX"
   },
   "US-UT": {
-    "title": "premier league",
+    "title": "man united vs crystal palace",
     "link": "https://trends.google.com/trending/rss?geo=US-UT"
   },
   "US-VT": {
@@ -180,11 +180,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-VT"
   },
   "US-VA": {
-    "title": "valencia c. f. - osasuna",
+    "title": "arsenal vs chelsea",
     "link": "https://trends.google.com/trending/rss?geo=US-VA"
   },
   "US-WA": {
-    "title": "uss abraham lincoln",
+    "title": "austin shooting",
     "link": "https://trends.google.com/trending/rss?geo=US-WA"
   },
   "US-WV": {
@@ -192,11 +192,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-WV"
   },
   "US-WI": {
-    "title": "nascar race today",
+    "title": "ind vs wi",
     "link": "https://trends.google.com/trending/rss?geo=US-WI"
   },
   "US-WY": {
-    "title": "iran news",
-    "link": "https://trends.google.com/trending/rss?geo=US-WY"
+    "title": null,
+    "link": null
   }
 }
