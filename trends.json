@@ -24,7 +24,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-CO"
   },
   "US-CT": {
-    "title": "bill clinton",
+    "title": "school closings",
     "link": "https://trends.google.com/trending/rss?geo=US-CT"
   },
   "US-DE": {
@@ -72,11 +72,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-LA"
   },
   "US-ME": {
-    "title": "celtics vs bucks",
+    "title": "winter weather advisory",
     "link": "https://trends.google.com/trending/rss?geo=US-ME"
   },
   "US-MD": {
-    "title": "mcps",
+    "title": "montgomery county public schools",
     "link": "https://trends.google.com/trending/rss?geo=US-MD"
   },
   "US-MA": {
@@ -112,7 +112,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NV"
   },
   "US-NH": {
-    "title": "celtics vs bucks",
+    "title": "winter weather advisory",
     "link": "https://trends.google.com/trending/rss?geo=US-NH"
   },
   "US-NJ": {
@@ -172,7 +172,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-TX"
   },
   "US-UT": {
-    "title": "clippers vs warriors",
+    "title": "gemini",
     "link": "https://trends.google.com/trending/rss?geo=US-UT"
   },
   "US-VT": {
@@ -180,7 +180,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-VT"
   },
   "US-VA": {
-    "title": "claude down",
+    "title": "opm",
     "link": "https://trends.google.com/trending/rss?geo=US-VA"
   },
   "US-WA": {
