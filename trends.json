@@ -16,11 +16,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-AR"
   },
   "US-CA": {
-    "title": "dow futures",
+    "title": "stock market today",
     "link": "https://trends.google.com/trending/rss?geo=US-CA"
   },
   "US-CO": {
-    "title": "weather",
+    "title": "stock market today",
     "link": "https://trends.google.com/trending/rss?geo=US-CO"
   },
   "US-CT": {
@@ -28,15 +28,15 @@
     "link": "https://trends.google.com/trending/rss?geo=US-CT"
   },
   "US-DE": {
-    "title": "blood moon 2026",
+    "title": "flyers",
     "link": "https://trends.google.com/trending/rss?geo=US-DE"
   },
   "US-FL": {
-    "title": "jessie buckley",
+    "title": "cazzie david",
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
-    "title": "joan lunden",
+    "title": "luke grimes",
     "link": "https://trends.google.com/trending/rss?geo=US-GA"
   },
   "US-HI": {
@@ -48,15 +48,15 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ID"
   },
   "US-IL": {
-    "title": "todd meadows deadliest catch",
+    "title": "joan lunden",
     "link": "https://trends.google.com/trending/rss?geo=US-IL"
   },
   "US-IN": {
-    "title": "weather",
+    "title": "luke grimes",
     "link": "https://trends.google.com/trending/rss?geo=US-IN"
   },
   "US-IA": {
-    "title": "gold price today",
+    "title": "nuggets vs jazz",
     "link": "https://trends.google.com/trending/rss?geo=US-IA"
   },
   "US-KS": {
@@ -72,19 +72,19 @@
     "link": "https://trends.google.com/trending/rss?geo=US-LA"
   },
   "US-ME": {
-    "title": "winter weather advisory",
+    "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=US-ME"
   },
   "US-MD": {
-    "title": "ihop",
+    "title": "mac",
     "link": "https://trends.google.com/trending/rss?geo=US-MD"
   },
   "US-MA": {
-    "title": "jessie buckley",
+    "title": "ihop",
     "link": "https://trends.google.com/trending/rss?geo=US-MA"
   },
   "US-MI": {
-    "title": "joan lunden",
+    "title": "march madness",
     "link": "https://trends.google.com/trending/rss?geo=US-MI"
   },
   "US-MN": {
@@ -112,11 +112,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NV"
   },
   "US-NH": {
-    "title": "winter weather advisory",
+    "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=US-NH"
   },
   "US-NJ": {
-    "title": "jessie buckley",
+    "title": "christa miller",
     "link": "https://trends.google.com/trending/rss?geo=US-NJ"
   },
   "US-NM": {
@@ -124,7 +124,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NM"
   },
   "US-NY": {
-    "title": "ken paxton",
+    "title": "qqq",
     "link": "https://trends.google.com/trending/rss?geo=US-NY"
   },
   "US-NC": {
@@ -136,19 +136,19 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ND"
   },
   "US-OH": {
-    "title": "joan lunden",
+    "title": "christa miller",
     "link": "https://trends.google.com/trending/rss?geo=US-OH"
   },
   "US-OK": {
-    "title": "oil prices today",
+    "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=US-OK"
   },
   "US-OR": {
-    "title": "claude down",
+    "title": "gold price",
     "link": "https://trends.google.com/trending/rss?geo=US-OR"
   },
   "US-PA": {
-    "title": "christian bale",
+    "title": "shrinking",
     "link": "https://trends.google.com/trending/rss?geo=US-PA"
   },
   "US-RI": {
@@ -156,7 +156,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-RI"
   },
   "US-SC": {
-    "title": "powerball",
+    "title": "luke grimes",
     "link": "https://trends.google.com/trending/rss?geo=US-SC"
   },
   "US-SD": {
@@ -168,11 +168,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-TN"
   },
   "US-TX": {
-    "title": "texas governor race",
+    "title": "jessie buckley",
     "link": "https://trends.google.com/trending/rss?geo=US-TX"
   },
   "US-UT": {
-    "title": "gemini",
+    "title": "stock market today",
     "link": "https://trends.google.com/trending/rss?geo=US-UT"
   },
   "US-VT": {
@@ -180,11 +180,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-VT"
   },
   "US-VA": {
-    "title": "mac",
+    "title": "luke grimes",
     "link": "https://trends.google.com/trending/rss?geo=US-VA"
   },
   "US-WA": {
-    "title": "nhl",
+    "title": "stock market",
     "link": "https://trends.google.com/trending/rss?geo=US-WA"
   },
   "US-WV": {
@@ -192,7 +192,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-WV"
   },
   "US-WI": {
-    "title": "powerball",
+    "title": "joan lunden",
     "link": "https://trends.google.com/trending/rss?geo=US-WI"
   },
   "US-WY": {
