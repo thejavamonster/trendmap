@@ -12,11 +12,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-AZ"
   },
   "US-AR": {
-    "title": "steve toth",
+    "title": "dan crenshaw",
     "link": "https://trends.google.com/trending/rss?geo=US-AR"
   },
   "US-CA": {
-    "title": "anhelina kalinina",
+    "title": "yak-130",
     "link": "https://trends.google.com/trending/rss?geo=US-CA"
   },
   "US-CO": {
@@ -24,7 +24,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-CO"
   },
   "US-CT": {
-    "title": "school delays",
+    "title": "wtnh",
     "link": "https://trends.google.com/trending/rss?geo=US-CT"
   },
   "US-DE": {
@@ -32,11 +32,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-DE"
   },
   "US-FL": {
-    "title": "gavin newsom",
+    "title": "f",
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
-    "title": "atl. san luis - mazatl\u00e1n",
+    "title": "suns vs kings",
     "link": "https://trends.google.com/trending/rss?geo=US-GA"
   },
   "US-HI": {
@@ -44,11 +44,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-HI"
   },
   "US-ID": {
-    "title": "texas election results",
+    "title": "wind advisory",
     "link": "https://trends.google.com/trending/rss?geo=US-ID"
   },
   "US-IL": {
-    "title": "total lunar eclipse blood moon",
+    "title": "flights",
     "link": "https://trends.google.com/trending/rss?geo=US-IL"
   },
   "US-IN": {
@@ -72,7 +72,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-LA"
   },
   "US-ME": {
-    "title": "texas primary",
+    "title": "school closings",
     "link": "https://trends.google.com/trending/rss?geo=US-ME"
   },
   "US-MD": {
@@ -80,11 +80,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-MD"
   },
   "US-MA": {
-    "title": "school closings",
+    "title": "school closings ma",
     "link": "https://trends.google.com/trending/rss?geo=US-MA"
   },
   "US-MI": {
-    "title": "suns vs kings",
+    "title": "dow futures",
     "link": "https://trends.google.com/trending/rss?geo=US-MI"
   },
   "US-MN": {
@@ -108,15 +108,15 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NE"
   },
   "US-NV": {
-    "title": "unlv basketball",
+    "title": "wind advisory",
     "link": "https://trends.google.com/trending/rss?geo=US-NV"
   },
   "US-NH": {
-    "title": "texas primary",
+    "title": "wmur weather",
     "link": "https://trends.google.com/trending/rss?geo=US-NH"
   },
   "US-NJ": {
-    "title": "suns vs kings",
+    "title": "nba scores",
     "link": "https://trends.google.com/trending/rss?geo=US-NJ"
   },
   "US-NM": {
@@ -124,11 +124,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NM"
   },
   "US-NY": {
-    "title": "valentina gomez",
+    "title": "gold",
     "link": "https://trends.google.com/trending/rss?geo=US-NY"
   },
   "US-NC": {
-    "title": "mcdonald&apos;s near me",
+    "title": "mega millions",
     "link": "https://trends.google.com/trending/rss?geo=US-NC"
   },
   "US-ND": {
@@ -136,7 +136,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ND"
   },
   "US-OH": {
-    "title": "suns vs kings",
+    "title": "dow futures",
     "link": "https://trends.google.com/trending/rss?geo=US-OH"
   },
   "US-OK": {
@@ -148,11 +148,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-OR"
   },
   "US-PA": {
-    "title": "dow jones futures",
+    "title": "fox news",
     "link": "https://trends.google.com/trending/rss?geo=US-PA"
   },
   "US-RI": {
-    "title": "texas primary",
+    "title": "jasmine crockett",
     "link": "https://trends.google.com/trending/rss?geo=US-RI"
   },
   "US-SC": {
@@ -180,7 +180,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-VT"
   },
   "US-VA": {
-    "title": "suns vs kings",
+    "title": "dow futures",
     "link": "https://trends.google.com/trending/rss?geo=US-VA"
   },
   "US-WA": {
@@ -192,11 +192,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-WV"
   },
   "US-WI": {
-    "title": "ecuador",
+    "title": "mcdonald&apos;s",
     "link": "https://trends.google.com/trending/rss?geo=US-WI"
   },
   "US-WY": {
-    "title": "lunar eclipse 2026",
-    "link": "https://trends.google.com/trending/rss?geo=US-WY"
+    "title": null,
+    "link": null
   }
 }
