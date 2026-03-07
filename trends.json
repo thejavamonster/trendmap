@@ -12,7 +12,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-AZ"
   },
   "US-AR": {
-    "title": "weather",
+    "title": "daylight savings 2026",
     "link": "https://trends.google.com/trending/rss?geo=US-AR"
   },
   "US-CA": {
@@ -36,7 +36,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
-    "title": "dunkin",
+    "title": "frontier airlines",
     "link": "https://trends.google.com/trending/rss?geo=US-GA"
   },
   "US-HI": {
@@ -56,11 +56,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-IN"
   },
   "US-IA": {
-    "title": "pacers vs lakers",
-    "link": "https://trends.google.com/trending/rss?geo=US-IA"
+    "title": null,
+    "link": null
   },
   "US-KS": {
-    "title": "fox 4 news",
+    "title": "news",
     "link": "https://trends.google.com/trending/rss?geo=US-KS"
   },
   "US-KY": {
@@ -68,7 +68,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-KY"
   },
   "US-LA": {
-    "title": "miami ohio basketball",
+    "title": "daylight savings 2026",
     "link": "https://trends.google.com/trending/rss?geo=US-LA"
   },
   "US-ME": {
@@ -80,11 +80,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-MD"
   },
   "US-MA": {
-    "title": "nyt connections",
+    "title": "connections nyt",
     "link": "https://trends.google.com/trending/rss?geo=US-MA"
   },
   "US-MI": {
-    "title": "daylight savings 2026",
+    "title": "mcdonald&apos;s",
     "link": "https://trends.google.com/trending/rss?geo=US-MI"
   },
   "US-MN": {
@@ -152,7 +152,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-PA"
   },
   "US-RI": {
-    "title": "maxx crosby",
+    "title": "nba",
     "link": "https://trends.google.com/trending/rss?geo=US-RI"
   },
   "US-SC": {
@@ -164,7 +164,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-SD"
   },
   "US-TN": {
-    "title": "when is daylight savings 2026",
+    "title": "formula 1",
     "link": "https://trends.google.com/trending/rss?geo=US-TN"
   },
   "US-TX": {
@@ -180,7 +180,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-VT"
   },
   "US-VA": {
-    "title": "michigan tornado",
+    "title": "wordle nyt",
     "link": "https://trends.google.com/trending/rss?geo=US-VA"
   },
   "US-WA": {
