@@ -4,8 +4,8 @@
     "link": "https://trends.google.com/trending/rss?geo=US-AL"
   },
   "US-AK": {
-    "title": "weather",
-    "link": "https://trends.google.com/trending/rss?geo=US-AK"
+    "title": null,
+    "link": null
   },
   "US-AZ": {
     "title": "connections hint",
@@ -16,7 +16,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-AR"
   },
   "US-CA": {
-    "title": "jordan 4 lakers",
+    "title": "cagliari - como",
     "link": "https://trends.google.com/trending/rss?geo=US-CA"
   },
   "US-CO": {
@@ -36,7 +36,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
-    "title": "saddle bar acworth",
+    "title": "levante - girona",
     "link": "https://trends.google.com/trending/rss?geo=US-GA"
   },
   "US-HI": {
@@ -48,7 +48,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ID"
   },
   "US-IL": {
-    "title": "troy murray",
+    "title": "osasuna - r.c.d. mallorca",
     "link": "https://trends.google.com/trending/rss?geo=US-IL"
   },
   "US-IN": {
@@ -104,7 +104,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-MT"
   },
   "US-NE": {
-    "title": "menards",
+    "title": "union city michigan",
     "link": "https://trends.google.com/trending/rss?geo=US-NE"
   },
   "US-NV": {
@@ -124,7 +124,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NM"
   },
   "US-NY": {
-    "title": "wrexham vs chelsea",
+    "title": "6 nations",
     "link": "https://trends.google.com/trending/rss?geo=US-NY"
   },
   "US-NC": {
@@ -136,7 +136,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ND"
   },
   "US-OH": {
-    "title": "accuweather",
+    "title": "mac tournament",
     "link": "https://trends.google.com/trending/rss?geo=US-OH"
   },
   "US-OK": {
@@ -144,7 +144,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-OK"
   },
   "US-OR": {
-    "title": "wbc scores",
+    "title": "daylight savings 2026",
     "link": "https://trends.google.com/trending/rss?geo=US-OR"
   },
   "US-PA": {
@@ -164,7 +164,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-SD"
   },
   "US-TN": {
-    "title": "nashville weather",
+    "title": "weather memphis tn",
     "link": "https://trends.google.com/trending/rss?geo=US-TN"
   },
   "US-TX": {
