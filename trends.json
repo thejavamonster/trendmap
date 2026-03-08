@@ -1,14 +1,14 @@
 {
   "US-AL": {
-    "title": "flash flood warning",
-    "link": "https://trends.google.com/trending/rss?geo=US-AL"
+    "title": null,
+    "link": null
   },
   "US-AK": {
     "title": "blizzard warning",
     "link": "https://trends.google.com/trending/rss?geo=US-AK"
   },
   "US-AZ": {
-    "title": "d\u00eda internacional de la mujer",
+    "title": "texas tech vs byu",
     "link": "https://trends.google.com/trending/rss?geo=US-AZ"
   },
   "US-AR": {
@@ -16,7 +16,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-AR"
   },
   "US-CA": {
-    "title": "ugo humbert",
+    "title": "sandy wernick",
     "link": "https://trends.google.com/trending/rss?geo=US-CA"
   },
   "US-CO": {
@@ -36,7 +36,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
-    "title": "osaka",
+    "title": "d\u00eda internacional de la mujer",
     "link": "https://trends.google.com/trending/rss?geo=US-GA"
   },
   "US-HI": {
@@ -48,20 +48,20 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ID"
   },
   "US-IL": {
-    "title": "d\u00eda internacional de la mujer",
+    "title": "osaka",
     "link": "https://trends.google.com/trending/rss?geo=US-IL"
   },
   "US-IN": {
-    "title": "international women&apos;s day",
+    "title": "nadal",
     "link": "https://trends.google.com/trending/rss?geo=US-IN"
   },
   "US-IA": {
-    "title": "international women&apos;s day",
+    "title": "big 12 tournament bracket",
     "link": "https://trends.google.com/trending/rss?geo=US-IA"
   },
   "US-KS": {
-    "title": "f1 race",
-    "link": "https://trends.google.com/trending/rss?geo=US-KS"
+    "title": null,
+    "link": null
   },
   "US-KY": {
     "title": "gorillaz",
@@ -88,7 +88,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-MI"
   },
   "US-MN": {
-    "title": "gorillaz",
+    "title": "nadal",
     "link": "https://trends.google.com/trending/rss?geo=US-MN"
   },
   "US-MS": {
@@ -116,7 +116,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NH"
   },
   "US-NJ": {
-    "title": "lafc",
+    "title": "d\u00eda internacional de la mujer",
     "link": "https://trends.google.com/trending/rss?geo=US-NJ"
   },
   "US-NM": {
@@ -124,7 +124,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NM"
   },
   "US-NY": {
-    "title": "lima",
+    "title": "iran israel strikes",
     "link": "https://trends.google.com/trending/rss?geo=US-NY"
   },
   "US-NC": {
@@ -136,7 +136,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ND"
   },
   "US-OH": {
-    "title": "osaka",
+    "title": "stuart fairchild",
     "link": "https://trends.google.com/trending/rss?geo=US-OH"
   },
   "US-OK": {
@@ -148,7 +148,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-OR"
   },
   "US-PA": {
-    "title": "osaka",
+    "title": "national women&apos;s day",
     "link": "https://trends.google.com/trending/rss?geo=US-PA"
   },
   "US-RI": {
@@ -168,7 +168,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-TN"
   },
   "US-TX": {
-    "title": "nadal",
+    "title": "osaka",
     "link": "https://trends.google.com/trending/rss?geo=US-TX"
   },
   "US-UT": {
@@ -180,11 +180,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-VT"
   },
   "US-VA": {
-    "title": "osaka",
+    "title": "virginia lottery",
     "link": "https://trends.google.com/trending/rss?geo=US-VA"
   },
   "US-WA": {
-    "title": "stuart fairchild",
+    "title": "india vs new zealand",
     "link": "https://trends.google.com/trending/rss?geo=US-WA"
   },
   "US-WV": {
