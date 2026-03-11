@@ -12,7 +12,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-AZ"
   },
   "US-AR": {
-    "title": "5 news",
+    "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=US-AR"
   },
   "US-CA": {
@@ -28,15 +28,15 @@
     "link": "https://trends.google.com/trending/rss?geo=US-CT"
   },
   "US-DE": {
-    "title": "wbc scores",
+    "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=US-DE"
   },
   "US-FL": {
-    "title": "mco",
+    "title": "cleveland browns",
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
-    "title": "cnbc",
+    "title": "pakistan vs bangladesh",
     "link": "https://trends.google.com/trending/rss?geo=US-GA"
   },
   "US-HI": {
@@ -48,15 +48,15 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ID"
   },
   "US-IL": {
-    "title": "philadelphia vs club am\u00e9rica",
+    "title": "pakistan vs bangladesh",
     "link": "https://trends.google.com/trending/rss?geo=US-IL"
   },
   "US-IN": {
-    "title": "espn",
+    "title": "what is a tornado watch",
     "link": "https://trends.google.com/trending/rss?geo=US-IN"
   },
   "US-IA": {
-    "title": "fire weather watch",
+    "title": "clima",
     "link": "https://trends.google.com/trending/rss?geo=US-IA"
   },
   "US-KS": {
@@ -64,31 +64,31 @@
     "link": "https://trends.google.com/trending/rss?geo=US-KS"
   },
   "US-KY": {
-    "title": "lexington ky weather",
+    "title": "clima",
     "link": "https://trends.google.com/trending/rss?geo=US-KY"
   },
   "US-LA": {
-    "title": "usa vs italy",
+    "title": "monterrey - cruz azul",
     "link": "https://trends.google.com/trending/rss?geo=US-LA"
   },
   "US-ME": {
-    "title": "portland press herald",
+    "title": "wbc",
     "link": "https://trends.google.com/trending/rss?geo=US-ME"
   },
   "US-MD": {
-    "title": "baltimore weather",
+    "title": "weather baltimore",
     "link": "https://trends.google.com/trending/rss?geo=US-MD"
   },
   "US-MA": {
-    "title": "mega millions",
+    "title": "mi",
     "link": "https://trends.google.com/trending/rss?geo=US-MA"
   },
   "US-MI": {
-    "title": "espn",
+    "title": "clima",
     "link": "https://trends.google.com/trending/rss?geo=US-MI"
   },
   "US-MN": {
-    "title": "mn timberwolves",
+    "title": "winter weather advisory",
     "link": "https://trends.google.com/trending/rss?geo=US-MN"
   },
   "US-MS": {
@@ -116,7 +116,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NH"
   },
   "US-NJ": {
-    "title": "nicole curtis",
+    "title": "clima",
     "link": "https://trends.google.com/trending/rss?geo=US-NJ"
   },
   "US-NM": {
@@ -124,11 +124,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NM"
   },
   "US-NY": {
-    "title": "tsa precheck",
+    "title": "weather new york",
     "link": "https://trends.google.com/trending/rss?geo=US-NY"
   },
   "US-NC": {
-    "title": "mega millions",
+    "title": "cnbc",
     "link": "https://trends.google.com/trending/rss?geo=US-NC"
   },
   "US-ND": {
@@ -136,7 +136,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ND"
   },
   "US-OH": {
-    "title": "columbus weather",
+    "title": "tornado watch vs warning",
     "link": "https://trends.google.com/trending/rss?geo=US-OH"
   },
   "US-OK": {
@@ -148,11 +148,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-OR"
   },
   "US-PA": {
-    "title": "accuweather",
+    "title": "clima",
     "link": "https://trends.google.com/trending/rss?geo=US-PA"
   },
   "US-RI": {
-    "title": "boston celtics",
+    "title": "wordle",
     "link": "https://trends.google.com/trending/rss?geo=US-RI"
   },
   "US-SC": {
@@ -164,11 +164,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-SD"
   },
   "US-TN": {
-    "title": "is instagram down",
+    "title": "knoxville weather",
     "link": "https://trends.google.com/trending/rss?geo=US-TN"
   },
   "US-TX": {
-    "title": "houston weather",
+    "title": "austin weather",
     "link": "https://trends.google.com/trending/rss?geo=US-TX"
   },
   "US-UT": {
@@ -180,7 +180,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-VT"
   },
   "US-VA": {
-    "title": "mega millions",
+    "title": "pakistan vs bangladesh",
     "link": "https://trends.google.com/trending/rss?geo=US-VA"
   },
   "US-WA": {
@@ -188,11 +188,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-WA"
   },
   "US-WV": {
-    "title": "usa baseball",
+    "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=US-WV"
   },
   "US-WI": {
-    "title": "milwaukee weather",
+    "title": "school closings",
     "link": "https://trends.google.com/trending/rss?geo=US-WI"
   },
   "US-WY": {
