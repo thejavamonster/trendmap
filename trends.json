@@ -32,15 +32,15 @@
     "link": "https://trends.google.com/trending/rss?geo=US-DE"
   },
   "US-FL": {
-    "title": "tornado watch vs warning",
+    "title": "zillow",
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
-    "title": "atlanta weather",
+    "title": "tsa wait times atlanta",
     "link": "https://trends.google.com/trending/rss?geo=US-GA"
   },
   "US-HI": {
-    "title": "high wind watch",
+    "title": "weather tomorrow",
     "link": "https://trends.google.com/trending/rss?geo=US-HI"
   },
   "US-ID": {
@@ -48,7 +48,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ID"
   },
   "US-IL": {
-    "title": "nasa satellite crashes",
+    "title": "online lottery",
     "link": "https://trends.google.com/trending/rss?geo=US-IL"
   },
   "US-IN": {
@@ -76,15 +76,15 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ME"
   },
   "US-MD": {
-    "title": "nfl mock draft 2026",
+    "title": "bwi tsa wait times",
     "link": "https://trends.google.com/trending/rss?geo=US-MD"
   },
   "US-MA": {
-    "title": "timberwolves vs clippers",
+    "title": "iranian drone attack",
     "link": "https://trends.google.com/trending/rss?geo=US-MA"
   },
   "US-MI": {
-    "title": "winter storm warning",
+    "title": "wbc schedule",
     "link": "https://trends.google.com/trending/rss?geo=US-MI"
   },
   "US-MN": {
@@ -124,7 +124,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NM"
   },
   "US-NY": {
-    "title": "wind advisory",
+    "title": "national grid",
     "link": "https://trends.google.com/trending/rss?geo=US-NY"
   },
   "US-NC": {
@@ -156,7 +156,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-RI"
   },
   "US-SC": {
-    "title": "nba scores",
+    "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=US-SC"
   },
   "US-SD": {
@@ -176,7 +176,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-UT"
   },
   "US-VT": {
-    "title": "wcax news",
+    "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=US-VT"
   },
   "US-VA": {
@@ -196,7 +196,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-WI"
   },
   "US-WY": {
-    "title": "wyoming vs unlv",
+    "title": "weather tomorrow",
     "link": "https://trends.google.com/trending/rss?geo=US-WY"
   }
 }
