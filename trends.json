@@ -1,6 +1,6 @@
 {
   "US-AL": {
-    "title": "espn",
+    "title": "youtube tv",
     "link": "https://trends.google.com/trending/rss?geo=US-AL"
   },
   "US-AK": {
@@ -8,23 +8,23 @@
     "link": "https://trends.google.com/trending/rss?geo=US-AK"
   },
   "US-AZ": {
-    "title": "supreme",
+    "title": "espn",
     "link": "https://trends.google.com/trending/rss?geo=US-AZ"
   },
   "US-AR": {
-    "title": "espn",
+    "title": "youtube tv",
     "link": "https://trends.google.com/trending/rss?geo=US-AR"
   },
   "US-CA": {
-    "title": "iheartradio",
+    "title": "youtube tv",
     "link": "https://trends.google.com/trending/rss?geo=US-CA"
   },
   "US-CO": {
-    "title": "youtube tv",
+    "title": "tycen anderson",
     "link": "https://trends.google.com/trending/rss?geo=US-CO"
   },
   "US-CT": {
-    "title": "cade cunningham",
+    "title": "march madness live",
     "link": "https://trends.google.com/trending/rss?geo=US-CT"
   },
   "US-DE": {
@@ -32,11 +32,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-DE"
   },
   "US-FL": {
-    "title": "supreme",
+    "title": "youtubetv",
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
-    "title": "cbs sports",
+    "title": "cbs",
     "link": "https://trends.google.com/trending/rss?geo=US-GA"
   },
   "US-HI": {
@@ -48,27 +48,27 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ID"
   },
   "US-IL": {
-    "title": "loyola student shot",
+    "title": "stubhub",
     "link": "https://trends.google.com/trending/rss?geo=US-IL"
   },
   "US-IN": {
-    "title": "lollapalooza",
+    "title": "where to watch march madness",
     "link": "https://trends.google.com/trending/rss?geo=US-IN"
   },
   "US-IA": {
-    "title": "cbs sports bracket",
+    "title": "youtube tv",
     "link": "https://trends.google.com/trending/rss?geo=US-IA"
   },
   "US-KS": {
-    "title": "espn tournament challenge",
+    "title": "cbs sports",
     "link": "https://trends.google.com/trending/rss?geo=US-KS"
   },
   "US-KY": {
-    "title": "cade cunningham",
+    "title": "youtube tv",
     "link": "https://trends.google.com/trending/rss?geo=US-KY"
   },
   "US-LA": {
-    "title": "march madness schedule",
+    "title": "lollapalooza 2026",
     "link": "https://trends.google.com/trending/rss?geo=US-LA"
   },
   "US-ME": {
@@ -76,19 +76,19 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ME"
   },
   "US-MD": {
-    "title": "supreme",
+    "title": "march madness live",
     "link": "https://trends.google.com/trending/rss?geo=US-MD"
   },
   "US-MA": {
-    "title": "kindle vildor",
+    "title": "espn",
     "link": "https://trends.google.com/trending/rss?geo=US-MA"
   },
   "US-MI": {
-    "title": "cbssports",
+    "title": "ohio state basketball",
     "link": "https://trends.google.com/trending/rss?geo=US-MI"
   },
   "US-MN": {
-    "title": "cbs",
+    "title": "youtube tv",
     "link": "https://trends.google.com/trending/rss?geo=US-MN"
   },
   "US-MS": {
@@ -96,19 +96,19 @@
     "link": "https://trends.google.com/trending/rss?geo=US-MS"
   },
   "US-MO": {
-    "title": "cbssports",
+    "title": "cbs sports",
     "link": "https://trends.google.com/trending/rss?geo=US-MO"
   },
   "US-MT": {
-    "title": "march madness",
+    "title": "march madness bracket",
     "link": "https://trends.google.com/trending/rss?geo=US-MT"
   },
   "US-NE": {
-    "title": "espn tournament challenge",
+    "title": "hulu",
     "link": "https://trends.google.com/trending/rss?geo=US-NE"
   },
   "US-NV": {
-    "title": "dow jones",
+    "title": "march madness schedule",
     "link": "https://trends.google.com/trending/rss?geo=US-NV"
   },
   "US-NH": {
@@ -116,7 +116,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NH"
   },
   "US-NJ": {
-    "title": "supreme",
+    "title": "where to watch march madness",
     "link": "https://trends.google.com/trending/rss?geo=US-NJ"
   },
   "US-NM": {
@@ -124,11 +124,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NM"
   },
   "US-NY": {
-    "title": "supreme margiela",
+    "title": "youtube tv",
     "link": "https://trends.google.com/trending/rss?geo=US-NY"
   },
   "US-NC": {
-    "title": "supreme",
+    "title": "youtube tv",
     "link": "https://trends.google.com/trending/rss?geo=US-NC"
   },
   "US-ND": {
@@ -136,7 +136,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ND"
   },
   "US-OH": {
-    "title": "cbssports",
+    "title": "youtubetv",
     "link": "https://trends.google.com/trending/rss?geo=US-OH"
   },
   "US-OK": {
@@ -144,11 +144,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-OK"
   },
   "US-OR": {
-    "title": "march madness schedule",
+    "title": "espn",
     "link": "https://trends.google.com/trending/rss?geo=US-OR"
   },
   "US-PA": {
-    "title": "john fetterman",
+    "title": "espn",
     "link": "https://trends.google.com/trending/rss?geo=US-PA"
   },
   "US-RI": {
@@ -156,7 +156,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-RI"
   },
   "US-SC": {
-    "title": "cade cunningham",
+    "title": "youtube tv",
     "link": "https://trends.google.com/trending/rss?geo=US-SC"
   },
   "US-SD": {
@@ -164,27 +164,27 @@
     "link": "https://trends.google.com/trending/rss?geo=US-SD"
   },
   "US-TN": {
-    "title": "espn",
+    "title": "youtube tv",
     "link": "https://trends.google.com/trending/rss?geo=US-TN"
   },
   "US-TX": {
-    "title": "supreme",
+    "title": "tcu basketball",
     "link": "https://trends.google.com/trending/rss?geo=US-TX"
   },
   "US-UT": {
-    "title": "espn",
+    "title": "march madness games",
     "link": "https://trends.google.com/trending/rss?geo=US-UT"
   },
   "US-VT": {
-    "title": "men\u2019s march madness",
+    "title": "march madness",
     "link": "https://trends.google.com/trending/rss?geo=US-VT"
   },
   "US-VA": {
-    "title": "supreme",
+    "title": "youtube tv",
     "link": "https://trends.google.com/trending/rss?geo=US-VA"
   },
   "US-WA": {
-    "title": "espn bracket challenge",
+    "title": "espn",
     "link": "https://trends.google.com/trending/rss?geo=US-WA"
   },
   "US-WV": {
@@ -192,7 +192,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-WV"
   },
   "US-WI": {
-    "title": "kate mara",
+    "title": "where to watch march madness",
     "link": "https://trends.google.com/trending/rss?geo=US-WI"
   },
   "US-WY": {
