@@ -1,6 +1,6 @@
 {
   "US-AL": {
-    "title": "alan ritchson",
+    "title": "news",
     "link": "https://trends.google.com/trending/rss?geo=US-AL"
   },
   "US-AK": {
@@ -8,11 +8,11 @@
     "link": null
   },
   "US-AZ": {
-    "title": "cnn",
+    "title": "apple",
     "link": "https://trends.google.com/trending/rss?geo=US-AZ"
   },
   "US-AR": {
-    "title": "boogie fland",
+    "title": "amazon",
     "link": "https://trends.google.com/trending/rss?geo=US-AR"
   },
   "US-CA": {
@@ -24,7 +24,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-CO"
   },
   "US-CT": {
-    "title": "laguardia airport",
+    "title": "news",
     "link": "https://trends.google.com/trending/rss?geo=US-CT"
   },
   "US-DE": {
@@ -32,11 +32,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-DE"
   },
   "US-FL": {
-    "title": "tsa wait times mco",
+    "title": "gold price",
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
-    "title": "virgo",
+    "title": "gold price",
     "link": "https://trends.google.com/trending/rss?geo=US-GA"
   },
   "US-HI": {
@@ -44,11 +44,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-HI"
   },
   "US-ID": {
-    "title": "utah state vs arizona",
+    "title": "florida basketball",
     "link": "https://trends.google.com/trending/rss?geo=US-ID"
   },
   "US-IL": {
-    "title": "gold price",
+    "title": "virgo",
     "link": "https://trends.google.com/trending/rss?geo=US-IL"
   },
   "US-IN": {
@@ -56,7 +56,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-IN"
   },
   "US-IA": {
-    "title": "arizona basketball",
+    "title": "ncaa basketball bracket",
     "link": "https://trends.google.com/trending/rss?geo=US-IA"
   },
   "US-KS": {
@@ -72,23 +72,23 @@
     "link": "https://trends.google.com/trending/rss?geo=US-LA"
   },
   "US-ME": {
-    "title": "uconn basketball",
+    "title": "ncaa scores",
     "link": "https://trends.google.com/trending/rss?geo=US-ME"
   },
   "US-MD": {
-    "title": "laguardia airport",
+    "title": "cnn",
     "link": "https://trends.google.com/trending/rss?geo=US-MD"
   },
   "US-MA": {
-    "title": "laguardia airport",
+    "title": "gold price",
     "link": "https://trends.google.com/trending/rss?geo=US-MA"
   },
   "US-MI": {
-    "title": "cnn news",
+    "title": "dtw tsa wait times",
     "link": "https://trends.google.com/trending/rss?geo=US-MI"
   },
   "US-MN": {
-    "title": "alan ritchson",
+    "title": "laguardia airport",
     "link": "https://trends.google.com/trending/rss?geo=US-MN"
   },
   "US-MS": {
@@ -104,7 +104,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-MT"
   },
   "US-NE": {
-    "title": "ucla vs uconn",
+    "title": "carrie anne fleming",
     "link": "https://trends.google.com/trending/rss?geo=US-NE"
   },
   "US-NV": {
@@ -112,11 +112,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NV"
   },
   "US-NH": {
-    "title": "uconn basketball",
+    "title": "wmur weather",
     "link": "https://trends.google.com/trending/rss?geo=US-NH"
   },
   "US-NJ": {
-    "title": "virgo",
+    "title": "gold price today",
     "link": "https://trends.google.com/trending/rss?geo=US-NJ"
   },
   "US-NM": {
@@ -124,11 +124,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NM"
   },
   "US-NY": {
-    "title": "gold price",
+    "title": "ewr tsa wait times",
     "link": "https://trends.google.com/trending/rss?geo=US-NY"
   },
   "US-NC": {
-    "title": "catherine harding",
+    "title": "tmz",
     "link": "https://trends.google.com/trending/rss?geo=US-NC"
   },
   "US-ND": {
@@ -136,7 +136,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ND"
   },
   "US-OH": {
-    "title": "virgo",
+    "title": "sweet 16 bracket",
     "link": "https://trends.google.com/trending/rss?geo=US-OH"
   },
   "US-OK": {
@@ -148,7 +148,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-OR"
   },
   "US-PA": {
-    "title": "phl tsa wait times",
+    "title": "tsa precheck",
     "link": "https://trends.google.com/trending/rss?geo=US-PA"
   },
   "US-RI": {
@@ -164,7 +164,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-SD"
   },
   "US-TN": {
-    "title": "alan ritchson",
+    "title": "laguardia airport",
     "link": "https://trends.google.com/trending/rss?geo=US-TN"
   },
   "US-TX": {
@@ -180,11 +180,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-VT"
   },
   "US-VA": {
-    "title": "laguardia airport",
+    "title": "gold price today",
     "link": "https://trends.google.com/trending/rss?geo=US-VA"
   },
   "US-WA": {
-    "title": "laguardia airport",
+    "title": "air canada",
     "link": "https://trends.google.com/trending/rss?geo=US-WA"
   },
   "US-WV": {
