@@ -24,19 +24,19 @@
     "link": "https://trends.google.com/trending/rss?geo=US-CO"
   },
   "US-CT": {
-    "title": "lakers",
+    "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=US-CT"
   },
   "US-DE": {
-    "title": "weather",
+    "title": "clima",
     "link": "https://trends.google.com/trending/rss?geo=US-DE"
   },
   "US-FL": {
-    "title": "as",
+    "title": "green day",
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
-    "title": "irak - bolivia",
+    "title": "midtown international school",
     "link": "https://trends.google.com/trending/rss?geo=US-GA"
   },
   "US-HI": {
@@ -52,23 +52,23 @@
     "link": "https://trends.google.com/trending/rss?geo=US-IL"
   },
   "US-IN": {
-    "title": "trail blazers vs clippers",
+    "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=US-IN"
   },
   "US-IA": {
-    "title": "winter weather advisory",
+    "title": "great iowa treasure hunt",
     "link": "https://trends.google.com/trending/rss?geo=US-IA"
   },
   "US-KS": {
-    "title": "artemis ii",
+    "title": "clima",
     "link": "https://trends.google.com/trending/rss?geo=US-KS"
   },
   "US-KY": {
-    "title": "connections hint",
+    "title": "clima",
     "link": "https://trends.google.com/trending/rss?geo=US-KY"
   },
   "US-LA": {
-    "title": "artemis ii",
+    "title": "trail blazers vs clippers",
     "link": "https://trends.google.com/trending/rss?geo=US-LA"
   },
   "US-ME": {
@@ -76,15 +76,15 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ME"
   },
   "US-MD": {
-    "title": "april fools day",
+    "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=US-MD"
   },
   "US-MA": {
-    "title": "boston red sox",
+    "title": "aj brown",
     "link": "https://trends.google.com/trending/rss?geo=US-MA"
   },
   "US-MI": {
-    "title": "april fools day",
+    "title": "wxyz detroit",
     "link": "https://trends.google.com/trending/rss?geo=US-MI"
   },
   "US-MN": {
@@ -92,19 +92,19 @@
     "link": "https://trends.google.com/trending/rss?geo=US-MN"
   },
   "US-MS": {
-    "title": "artemis ii",
+    "title": "lakers",
     "link": "https://trends.google.com/trending/rss?geo=US-MS"
   },
   "US-MO": {
-    "title": "april fools day",
+    "title": "weather st louis",
     "link": "https://trends.google.com/trending/rss?geo=US-MO"
   },
   "US-MT": {
-    "title": "winter storm warning",
+    "title": "winter storm watch",
     "link": "https://trends.google.com/trending/rss?geo=US-MT"
   },
   "US-NE": {
-    "title": "artemis ii",
+    "title": "clima",
     "link": "https://trends.google.com/trending/rss?geo=US-NE"
   },
   "US-NV": {
@@ -116,7 +116,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NH"
   },
   "US-NJ": {
-    "title": "birthright citizenship",
+    "title": "bruce springsteen setlist",
     "link": "https://trends.google.com/trending/rss?geo=US-NJ"
   },
   "US-NM": {
@@ -124,11 +124,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NM"
   },
   "US-NY": {
-    "title": "dow futures",
+    "title": "connections nyt",
     "link": "https://trends.google.com/trending/rss?geo=US-NY"
   },
   "US-NC": {
-    "title": "irak - bolivia",
+    "title": "second city",
     "link": "https://trends.google.com/trending/rss?geo=US-NC"
   },
   "US-ND": {
@@ -136,7 +136,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ND"
   },
   "US-OH": {
-    "title": "stock market",
+    "title": "clima",
     "link": "https://trends.google.com/trending/rss?geo=US-OH"
   },
   "US-OK": {
@@ -148,11 +148,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-OR"
   },
   "US-PA": {
-    "title": "kdka news",
+    "title": "dow futures",
     "link": "https://trends.google.com/trending/rss?geo=US-PA"
   },
   "US-RI": {
-    "title": "bryon noem",
+    "title": "clima",
     "link": "https://trends.google.com/trending/rss?geo=US-RI"
   },
   "US-SC": {
@@ -164,11 +164,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-SD"
   },
   "US-TN": {
-    "title": "lakers",
+    "title": "april fools day",
     "link": "https://trends.google.com/trending/rss?geo=US-TN"
   },
   "US-TX": {
-    "title": "stock market",
+    "title": "debt relief",
     "link": "https://trends.google.com/trending/rss?geo=US-TX"
   },
   "US-UT": {
@@ -176,11 +176,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-UT"
   },
   "US-VT": {
-    "title": "bryon noem",
+    "title": "artemis ii",
     "link": "https://trends.google.com/trending/rss?geo=US-VT"
   },
   "US-VA": {
-    "title": "bank of america",
+    "title": "clima",
     "link": "https://trends.google.com/trending/rss?geo=US-VA"
   },
   "US-WA": {
@@ -188,11 +188,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-WA"
   },
   "US-WV": {
-    "title": "artemis ii",
+    "title": "bryon noem",
     "link": "https://trends.google.com/trending/rss?geo=US-WV"
   },
   "US-WI": {
-    "title": "winter weather advisory",
+    "title": "weather milwaukee",
     "link": "https://trends.google.com/trending/rss?geo=US-WI"
   },
   "US-WY": {
