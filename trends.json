@@ -16,7 +16,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-AR"
   },
   "US-CA": {
-    "title": "new york times",
+    "title": "zillow",
     "link": "https://trends.google.com/trending/rss?geo=US-CA"
   },
   "US-CO": {
@@ -28,11 +28,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-CT"
   },
   "US-DE": {
-    "title": "lakers vs thunder",
+    "title": "lakers",
     "link": "https://trends.google.com/trending/rss?geo=US-DE"
   },
   "US-FL": {
-    "title": "crude oil prices",
+    "title": "stock market today",
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
@@ -48,11 +48,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ID"
   },
   "US-IL": {
-    "title": "grace van patten",
+    "title": "tax return",
     "link": "https://trends.google.com/trending/rss?geo=US-IL"
   },
   "US-IN": {
-    "title": "nyt connections",
+    "title": "severe thunderstorm warning",
     "link": "https://trends.google.com/trending/rss?geo=US-IN"
   },
   "US-IA": {
@@ -64,7 +64,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-KS"
   },
   "US-KY": {
-    "title": "spurs vs clippers",
+    "title": "luka doncic",
     "link": "https://trends.google.com/trending/rss?geo=US-KY"
   },
   "US-LA": {
@@ -72,23 +72,23 @@
     "link": "https://trends.google.com/trending/rss?geo=US-LA"
   },
   "US-ME": {
-    "title": "bruins vs panthers",
+    "title": "wabi",
     "link": "https://trends.google.com/trending/rss?geo=US-ME"
   },
   "US-MD": {
-    "title": "shai gilgeous-alexander",
+    "title": "okc",
     "link": "https://trends.google.com/trending/rss?geo=US-MD"
   },
   "US-MA": {
-    "title": "artemis 2 tracker",
+    "title": "pga",
     "link": "https://trends.google.com/trending/rss?geo=US-MA"
   },
   "US-MI": {
-    "title": "detroit weather",
+    "title": "luka doncic",
     "link": "https://trends.google.com/trending/rss?geo=US-MI"
   },
   "US-MN": {
-    "title": "spurs vs clippers",
+    "title": "ice storm warning",
     "link": "https://trends.google.com/trending/rss?geo=US-MN"
   },
   "US-MS": {
@@ -96,7 +96,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-MS"
   },
   "US-MO": {
-    "title": "joe biden",
+    "title": "oil prices",
     "link": "https://trends.google.com/trending/rss?geo=US-MO"
   },
   "US-MT": {
@@ -104,7 +104,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-MT"
   },
   "US-NE": {
-    "title": "lakers vs thunder",
+    "title": "lakers",
     "link": "https://trends.google.com/trending/rss?geo=US-NE"
   },
   "US-NV": {
@@ -116,7 +116,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NH"
   },
   "US-NJ": {
-    "title": "invincible",
+    "title": "rutgers basketball",
     "link": "https://trends.google.com/trending/rss?geo=US-NJ"
   },
   "US-NM": {
@@ -124,11 +124,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NM"
   },
   "US-NY": {
-    "title": "mercor",
+    "title": "nasa artemis ii astronauts",
     "link": "https://trends.google.com/trending/rss?geo=US-NY"
   },
   "US-NC": {
-    "title": "pelicans vs trail blazers",
+    "title": "stock market today",
     "link": "https://trends.google.com/trending/rss?geo=US-NC"
   },
   "US-ND": {
@@ -148,11 +148,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-OR"
   },
   "US-PA": {
-    "title": "zelda",
+    "title": "stock market today",
     "link": "https://trends.google.com/trending/rss?geo=US-PA"
   },
   "US-RI": {
-    "title": "lakers",
+    "title": "lakers vs thunder",
     "link": "https://trends.google.com/trending/rss?geo=US-RI"
   },
   "US-SC": {
@@ -160,7 +160,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-SC"
   },
   "US-SD": {
-    "title": "lakers vs thunder",
+    "title": "timberwolves vs pistons",
     "link": "https://trends.google.com/trending/rss?geo=US-SD"
   },
   "US-TN": {
@@ -168,7 +168,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-TN"
   },
   "US-TX": {
-    "title": "adrian mannarino",
+    "title": "good friday 2026",
     "link": "https://trends.google.com/trending/rss?geo=US-TX"
   },
   "US-UT": {
@@ -180,7 +180,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-VT"
   },
   "US-VA": {
-    "title": "shai gilgeous-alexander",
+    "title": "stock market today",
     "link": "https://trends.google.com/trending/rss?geo=US-VA"
   },
   "US-WA": {
@@ -188,7 +188,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-WA"
   },
   "US-WV": {
-    "title": "lakers vs thunder",
+    "title": "lakers",
     "link": "https://trends.google.com/trending/rss?geo=US-WV"
   },
   "US-WI": {
