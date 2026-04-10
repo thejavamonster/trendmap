@@ -20,7 +20,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-CA"
   },
   "US-CO": {
-    "title": "mortgages",
+    "title": "fha financing",
     "link": "https://trends.google.com/trending/rss?geo=US-CO"
   },
   "US-CT": {
@@ -32,7 +32,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-DE"
   },
   "US-FL": {
-    "title": "real estate",
+    "title": "mlb",
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
@@ -80,7 +80,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-MD"
   },
   "US-MA": {
-    "title": "nba standings",
+    "title": "sonic",
     "link": "https://trends.google.com/trending/rss?geo=US-MA"
   },
   "US-MI": {
@@ -128,7 +128,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NY"
   },
   "US-NC": {
-    "title": "sonic",
+    "title": "hulu",
     "link": "https://trends.google.com/trending/rss?geo=US-NC"
   },
   "US-ND": {
@@ -136,7 +136,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ND"
   },
   "US-OH": {
-    "title": "sonic",
+    "title": "padres",
     "link": "https://trends.google.com/trending/rss?geo=US-OH"
   },
   "US-OK": {
@@ -168,7 +168,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-TN"
   },
   "US-TX": {
-    "title": "donald trump military draft",
+    "title": "maude apatow",
     "link": "https://trends.google.com/trending/rss?geo=US-TX"
   },
   "US-UT": {
@@ -196,7 +196,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-WI"
   },
   "US-WY": {
-    "title": "masters leaderboard",
+    "title": "masters",
     "link": "https://trends.google.com/trending/rss?geo=US-WY"
   }
 }
