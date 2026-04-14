@@ -8,7 +8,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-AK"
   },
   "US-AZ": {
-    "title": "stock market today",
+    "title": "news today",
     "link": "https://trends.google.com/trending/rss?geo=US-AZ"
   },
   "US-AR": {
@@ -16,15 +16,15 @@
     "link": "https://trends.google.com/trending/rss?geo=US-AR"
   },
   "US-CA": {
-    "title": "nba scores",
+    "title": "artificial intelligence",
     "link": "https://trends.google.com/trending/rss?geo=US-CA"
   },
   "US-CO": {
-    "title": "mortgage rates today",
+    "title": "boulder weather",
     "link": "https://trends.google.com/trending/rss?geo=US-CO"
   },
   "US-CT": {
-    "title": "yankees score",
+    "title": "nba",
     "link": "https://trends.google.com/trending/rss?geo=US-CT"
   },
   "US-DE": {
@@ -32,11 +32,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-DE"
   },
   "US-FL": {
-    "title": "class action",
+    "title": "coco gauff",
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
-    "title": "wordle hint today",
+    "title": "class action",
     "link": "https://trends.google.com/trending/rss?geo=US-GA"
   },
   "US-HI": {
@@ -48,23 +48,23 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ID"
   },
   "US-IL": {
-    "title": "netflix",
+    "title": "class action",
     "link": "https://trends.google.com/trending/rss?geo=US-IL"
   },
   "US-IN": {
-    "title": "stock market today",
+    "title": "weather indianapolis",
     "link": "https://trends.google.com/trending/rss?geo=US-IN"
   },
   "US-IA": {
-    "title": "world quantum day",
+    "title": "wordle hint",
     "link": "https://trends.google.com/trending/rss?geo=US-IA"
   },
   "US-KS": {
-    "title": "nba",
+    "title": "stock market today",
     "link": "https://trends.google.com/trending/rss?geo=US-KS"
   },
   "US-KY": {
-    "title": "wordle hint",
+    "title": "kentucky basketball",
     "link": "https://trends.google.com/trending/rss?geo=US-KY"
   },
   "US-LA": {
@@ -76,23 +76,23 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ME"
   },
   "US-MD": {
-    "title": "wordle hint",
+    "title": "rock and roll hall of fame",
     "link": "https://trends.google.com/trending/rss?geo=US-MD"
   },
   "US-MA": {
-    "title": "rock and roll hall of fame 2026",
+    "title": "rock and roll hall of fame",
     "link": "https://trends.google.com/trending/rss?geo=US-MA"
   },
   "US-MI": {
-    "title": "school closings",
+    "title": "class action",
     "link": "https://trends.google.com/trending/rss?geo=US-MI"
   },
   "US-MN": {
-    "title": "nba",
+    "title": "wordle hint",
     "link": "https://trends.google.com/trending/rss?geo=US-MN"
   },
   "US-MS": {
-    "title": "nba",
+    "title": "jamal roberts",
     "link": "https://trends.google.com/trending/rss?geo=US-MS"
   },
   "US-MO": {
@@ -108,7 +108,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NE"
   },
   "US-NV": {
-    "title": "world quantum day",
+    "title": "wind advisory",
     "link": "https://trends.google.com/trending/rss?geo=US-NV"
   },
   "US-NH": {
@@ -116,7 +116,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NH"
   },
   "US-NJ": {
-    "title": "wordle hint",
+    "title": "disney cruise line",
     "link": "https://trends.google.com/trending/rss?geo=US-NJ"
   },
   "US-NM": {
@@ -124,11 +124,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NM"
   },
   "US-NY": {
-    "title": "scott bessent",
+    "title": "disney cruise line",
     "link": "https://trends.google.com/trending/rss?geo=US-NY"
   },
   "US-NC": {
-    "title": "luka bogavac transfer portal",
+    "title": "disney cruise line",
     "link": "https://trends.google.com/trending/rss?geo=US-NC"
   },
   "US-ND": {
@@ -136,11 +136,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ND"
   },
   "US-OH": {
-    "title": "weather",
+    "title": "wordle hint today",
     "link": "https://trends.google.com/trending/rss?geo=US-OH"
   },
   "US-OK": {
-    "title": "nba",
+    "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=US-OK"
   },
   "US-OR": {
@@ -156,19 +156,19 @@
     "link": "https://trends.google.com/trending/rss?geo=US-RI"
   },
   "US-SC": {
-    "title": "spacex launch",
+    "title": "u.s. flight cancellations delays",
     "link": "https://trends.google.com/trending/rss?geo=US-SC"
   },
   "US-SD": {
-    "title": "world quantum day",
+    "title": "keloland",
     "link": "https://trends.google.com/trending/rss?geo=US-SD"
   },
   "US-TN": {
-    "title": "nba",
+    "title": "news today",
     "link": "https://trends.google.com/trending/rss?geo=US-TN"
   },
   "US-TX": {
-    "title": "netflix",
+    "title": "greg abbott",
     "link": "https://trends.google.com/trending/rss?geo=US-TX"
   },
   "US-UT": {
@@ -180,7 +180,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-VT"
   },
   "US-VA": {
-    "title": "new york yankees",
+    "title": "rock and roll hall of fame 2026",
     "link": "https://trends.google.com/trending/rss?geo=US-VA"
   },
   "US-WA": {
@@ -192,7 +192,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-WV"
   },
   "US-WI": {
-    "title": "flood warning",
+    "title": "u.s. flight cancellations delays",
     "link": "https://trends.google.com/trending/rss?geo=US-WI"
   },
   "US-WY": {
