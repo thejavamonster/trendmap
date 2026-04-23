@@ -1,14 +1,14 @@
 {
   "US-AL": {
-    "title": "invincible",
+    "title": "michael beasley",
     "link": "https://trends.google.com/trending/rss?geo=US-AL"
   },
   "US-AK": {
-    "title": "earth day",
-    "link": "https://trends.google.com/trending/rss?geo=US-AK"
+    "title": null,
+    "link": null
   },
   "US-AZ": {
-    "title": "michael jackson",
+    "title": "mike vrabel",
     "link": "https://trends.google.com/trending/rss?geo=US-AZ"
   },
   "US-AR": {
@@ -16,11 +16,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-AR"
   },
   "US-CA": {
-    "title": "playstation",
+    "title": "playstation network",
     "link": "https://trends.google.com/trending/rss?geo=US-CA"
   },
   "US-CO": {
-    "title": "tijuana - pachuca",
+    "title": "ducks vs oilers",
     "link": "https://trends.google.com/trending/rss?geo=US-CO"
   },
   "US-CT": {
@@ -32,11 +32,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-DE"
   },
   "US-FL": {
-    "title": "asiago",
+    "title": "morning naps",
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
-    "title": "tijuana - pachuca",
+    "title": "asiago",
     "link": "https://trends.google.com/trending/rss?geo=US-GA"
   },
   "US-HI": {
@@ -44,19 +44,19 @@
     "link": "https://trends.google.com/trending/rss?geo=US-HI"
   },
   "US-ID": {
-    "title": "liga mx",
+    "title": "necaxa - guadalajara",
     "link": "https://trends.google.com/trending/rss?geo=US-ID"
   },
   "US-IL": {
-    "title": "munetaka murakami",
+    "title": "asiago",
     "link": "https://trends.google.com/trending/rss?geo=US-IL"
   },
   "US-IN": {
-    "title": "necaxa - guadalajara",
+    "title": "white sox",
     "link": "https://trends.google.com/trending/rss?geo=US-IN"
   },
   "US-IA": {
-    "title": "minnesota wild",
+    "title": "liga mx",
     "link": "https://trends.google.com/trending/rss?geo=US-IA"
   },
   "US-KS": {
@@ -64,11 +64,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-KS"
   },
   "US-KY": {
-    "title": "liga mx",
+    "title": "necaxa - guadalajara",
     "link": "https://trends.google.com/trending/rss?geo=US-KY"
   },
   "US-LA": {
-    "title": "mazatl\u00e1n - toluca",
+    "title": "necaxa - guadalajara",
     "link": "https://trends.google.com/trending/rss?geo=US-LA"
   },
   "US-ME": {
@@ -80,7 +80,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-MD"
   },
   "US-MA": {
-    "title": "dodgers",
+    "title": "asiago",
     "link": "https://trends.google.com/trending/rss?geo=US-MA"
   },
   "US-MI": {
@@ -88,7 +88,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-MI"
   },
   "US-MN": {
-    "title": "necaxa - guadalajara",
+    "title": "sports",
     "link": "https://trends.google.com/trending/rss?geo=US-MN"
   },
   "US-MS": {
@@ -96,7 +96,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-MS"
   },
   "US-MO": {
-    "title": "inter miami vs real salt lake",
+    "title": "nhl",
     "link": "https://trends.google.com/trending/rss?geo=US-MO"
   },
   "US-MT": {
@@ -108,7 +108,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NE"
   },
   "US-NV": {
-    "title": "sf giants",
+    "title": "dallas stars",
     "link": "https://trends.google.com/trending/rss?geo=US-NV"
   },
   "US-NH": {
@@ -116,7 +116,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NH"
   },
   "US-NJ": {
-    "title": "dillon brooks",
+    "title": "dallas stars",
     "link": "https://trends.google.com/trending/rss?geo=US-NJ"
   },
   "US-NM": {
@@ -124,31 +124,31 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NM"
   },
   "US-NY": {
-    "title": "asiago",
+    "title": "john cena",
     "link": "https://trends.google.com/trending/rss?geo=US-NY"
   },
   "US-NC": {
-    "title": "tijuana - pachuca",
+    "title": "mike vrabel",
     "link": "https://trends.google.com/trending/rss?geo=US-NC"
   },
   "US-ND": {
-    "title": "mn wild",
+    "title": "wild game",
     "link": "https://trends.google.com/trending/rss?geo=US-ND"
   },
   "US-OH": {
-    "title": "michael jackson",
+    "title": "celeste rivas hernandez",
     "link": "https://trends.google.com/trending/rss?geo=US-OH"
   },
   "US-OK": {
-    "title": "jaylin williams",
+    "title": "necaxa - guadalajara",
     "link": "https://trends.google.com/trending/rss?geo=US-OK"
   },
   "US-OR": {
-    "title": "sf giants",
+    "title": "nhl",
     "link": "https://trends.google.com/trending/rss?geo=US-OR"
   },
   "US-PA": {
-    "title": "asiago",
+    "title": "necaxa - guadalajara",
     "link": "https://trends.google.com/trending/rss?geo=US-PA"
   },
   "US-RI": {
@@ -156,7 +156,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-RI"
   },
   "US-SC": {
-    "title": "necaxa - guadalajara",
+    "title": "michael beasley",
     "link": "https://trends.google.com/trending/rss?geo=US-SC"
   },
   "US-SD": {
@@ -164,15 +164,15 @@
     "link": "https://trends.google.com/trending/rss?geo=US-SD"
   },
   "US-TN": {
-    "title": "necaxa - guadalajara",
+    "title": "nhl",
     "link": "https://trends.google.com/trending/rss?geo=US-TN"
   },
   "US-TX": {
-    "title": "playstation",
+    "title": "jamie benn",
     "link": "https://trends.google.com/trending/rss?geo=US-TX"
   },
   "US-UT": {
-    "title": "dodgers",
+    "title": "nhl",
     "link": "https://trends.google.com/trending/rss?geo=US-UT"
   },
   "US-VT": {
@@ -180,11 +180,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-VT"
   },
   "US-VA": {
-    "title": "charlize theron",
+    "title": "asiago",
     "link": "https://trends.google.com/trending/rss?geo=US-VA"
   },
   "US-WA": {
-    "title": "dillon brooks",
+    "title": "dallas stars",
     "link": "https://trends.google.com/trending/rss?geo=US-WA"
   },
   "US-WV": {
