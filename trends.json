@@ -4,8 +4,8 @@
     "link": "https://trends.google.com/trending/rss?geo=US-AL"
   },
   "US-AK": {
-    "title": "wind advisory",
-    "link": "https://trends.google.com/trending/rss?geo=US-AK"
+    "title": null,
+    "link": null
   },
   "US-AZ": {
     "title": "sunshine protection act",
@@ -16,7 +16,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-AR"
   },
   "US-CA": {
-    "title": "tom holland",
+    "title": "what is the news today",
     "link": "https://trends.google.com/trending/rss?geo=US-CA"
   },
   "US-CO": {
@@ -32,11 +32,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-DE"
   },
   "US-FL": {
-    "title": "what is the news today",
+    "title": "spacex launch",
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
-    "title": "daytime emmy nominations 2026",
+    "title": "hbo max",
     "link": "https://trends.google.com/trending/rss?geo=US-GA"
   },
   "US-HI": {
@@ -124,7 +124,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NM"
   },
   "US-NY": {
-    "title": "elon musk",
+    "title": "soccer world rankings",
     "link": "https://trends.google.com/trending/rss?geo=US-NY"
   },
   "US-NC": {
@@ -136,7 +136,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ND"
   },
   "US-OH": {
-    "title": "hbo max",
+    "title": "west virginia cyclosporiasis outbreak",
     "link": "https://trends.google.com/trending/rss?geo=US-OH"
   },
   "US-OK": {
@@ -148,7 +148,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-OR"
   },
   "US-PA": {
-    "title": "anne hathaway",
+    "title": "west virginia cyclosporiasis outbreak",
     "link": "https://trends.google.com/trending/rss?geo=US-PA"
   },
   "US-RI": {
@@ -156,7 +156,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-RI"
   },
   "US-SC": {
-    "title": "manila clam spreading atlantic coastline",
+    "title": "powerball",
     "link": "https://trends.google.com/trending/rss?geo=US-SC"
   },
   "US-SD": {
@@ -168,7 +168,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-TN"
   },
   "US-TX": {
-    "title": "soccer world rankings",
+    "title": "artificial intelligence news",
     "link": "https://trends.google.com/trending/rss?geo=US-TX"
   },
   "US-UT": {
@@ -180,11 +180,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-VT"
   },
   "US-VA": {
-    "title": "anne hathaway",
+    "title": "west virginia cyclosporiasis outbreak",
     "link": "https://trends.google.com/trending/rss?geo=US-VA"
   },
   "US-WA": {
-    "title": "joan sebastian guerrero",
+    "title": "elon musk",
     "link": "https://trends.google.com/trending/rss?geo=US-WA"
   },
   "US-WV": {
