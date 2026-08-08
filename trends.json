@@ -1,42 +1,42 @@
 {
   "US-AL": {
-    "title": "braves vs yankees",
+    "title": "dream vs mystics",
     "link": "https://trends.google.com/trending/rss?geo=US-AL"
   },
   "US-AK": {
-    "title": "nfl",
-    "link": "https://trends.google.com/trending/rss?geo=US-AK"
+    "title": null,
+    "link": null
   },
   "US-AZ": {
-    "title": "cubs vs royals",
+    "title": "dream vs mystics",
     "link": "https://trends.google.com/trending/rss?geo=US-AZ"
   },
   "US-AR": {
-    "title": "pardon",
+    "title": "the last house",
     "link": "https://trends.google.com/trending/rss?geo=US-AR"
   },
   "US-CA": {
-    "title": "jamul fire",
+    "title": "tigres - minnesota",
     "link": "https://trends.google.com/trending/rss?geo=US-CA"
   },
   "US-CO": {
-    "title": "rockies vs cardinals",
+    "title": "cubs vs royals",
     "link": "https://trends.google.com/trending/rss?geo=US-CO"
   },
   "US-CT": {
-    "title": "flash flood warning",
+    "title": "severe thunderstorm warning",
     "link": "https://trends.google.com/trending/rss?geo=US-CT"
   },
   "US-DE": {
-    "title": "blue jays vs phillies",
+    "title": "chase utley",
     "link": "https://trends.google.com/trending/rss?geo=US-DE"
   },
   "US-FL": {
-    "title": "lisa murkowski",
+    "title": "cincinnati - pumas",
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
-    "title": "columbus crew - pachuca",
+    "title": "guardians vs white sox",
     "link": "https://trends.google.com/trending/rss?geo=US-GA"
   },
   "US-HI": {
@@ -44,19 +44,19 @@
     "link": "https://trends.google.com/trending/rss?geo=US-HI"
   },
   "US-ID": {
-    "title": "alex hughes",
+    "title": "aaron farinacci spokane arson",
     "link": "https://trends.google.com/trending/rss?geo=US-ID"
   },
   "US-IL": {
-    "title": "dream vs mystics",
+    "title": "cincinnati - pumas",
     "link": "https://trends.google.com/trending/rss?geo=US-IL"
   },
   "US-IN": {
-    "title": "cubs vs royals",
+    "title": "rockies vs cardinals",
     "link": "https://trends.google.com/trending/rss?geo=US-IN"
   },
   "US-IA": {
-    "title": "mercury vs sun",
+    "title": "twins vs brewers",
     "link": "https://trends.google.com/trending/rss?geo=US-IA"
   },
   "US-KS": {
@@ -64,7 +64,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-KS"
   },
   "US-KY": {
-    "title": "reds vs nationals",
+    "title": "fc cincinnati",
     "link": "https://trends.google.com/trending/rss?geo=US-KY"
   },
   "US-LA": {
@@ -72,31 +72,31 @@
     "link": "https://trends.google.com/trending/rss?geo=US-LA"
   },
   "US-ME": {
-    "title": "athletics vs red sox",
+    "title": "jake rogers",
     "link": "https://trends.google.com/trending/rss?geo=US-ME"
   },
   "US-MD": {
-    "title": "orioles vs rangers",
+    "title": "apple tv",
     "link": "https://trends.google.com/trending/rss?geo=US-MD"
   },
   "US-MA": {
-    "title": "boston blue",
+    "title": "max muncy",
     "link": "https://trends.google.com/trending/rss?geo=US-MA"
   },
   "US-MI": {
-    "title": "dream vs mystics",
+    "title": "orioles vs rangers",
     "link": "https://trends.google.com/trending/rss?geo=US-MI"
   },
   "US-MN": {
-    "title": "twins vs brewers",
+    "title": "cubs vs royals",
     "link": "https://trends.google.com/trending/rss?geo=US-MN"
   },
   "US-MS": {
-    "title": "brandon clarke",
+    "title": "the last house",
     "link": "https://trends.google.com/trending/rss?geo=US-MS"
   },
   "US-MO": {
-    "title": "rockies vs cardinals",
+    "title": "dream vs mystics",
     "link": "https://trends.google.com/trending/rss?geo=US-MO"
   },
   "US-MT": {
@@ -104,7 +104,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-MT"
   },
   "US-NE": {
-    "title": "pardon",
+    "title": "cubs vs royals",
     "link": "https://trends.google.com/trending/rss?geo=US-NE"
   },
   "US-NV": {
@@ -112,11 +112,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NV"
   },
   "US-NH": {
-    "title": "athletics vs red sox",
+    "title": "jake rogers",
     "link": "https://trends.google.com/trending/rss?geo=US-NH"
   },
   "US-NJ": {
-    "title": "coco gauff",
+    "title": "orioles vs rangers",
     "link": "https://trends.google.com/trending/rss?geo=US-NJ"
   },
   "US-NM": {
@@ -124,11 +124,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NM"
   },
   "US-NY": {
-    "title": "cubs vs royals",
+    "title": "cincinnati - pumas",
     "link": "https://trends.google.com/trending/rss?geo=US-NY"
   },
   "US-NC": {
-    "title": "dream vs mystics",
+    "title": "orioles vs rangers",
     "link": "https://trends.google.com/trending/rss?geo=US-NC"
   },
   "US-ND": {
@@ -136,7 +136,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ND"
   },
   "US-OH": {
-    "title": "dream vs mystics",
+    "title": "columbus crew",
     "link": "https://trends.google.com/trending/rss?geo=US-OH"
   },
   "US-OK": {
@@ -144,35 +144,35 @@
     "link": "https://trends.google.com/trending/rss?geo=US-OK"
   },
   "US-OR": {
-    "title": "brandon clarke",
+    "title": "athletics vs red sox",
     "link": "https://trends.google.com/trending/rss?geo=US-OR"
   },
   "US-PA": {
-    "title": "angels vs marlins",
+    "title": "john kruk",
     "link": "https://trends.google.com/trending/rss?geo=US-PA"
   },
   "US-RI": {
-    "title": "athletics vs red sox",
+    "title": "yankees",
     "link": "https://trends.google.com/trending/rss?geo=US-RI"
   },
   "US-SC": {
-    "title": "dream vs mystics",
+    "title": "greenville police mall counterfeit raid",
     "link": "https://trends.google.com/trending/rss?geo=US-SC"
   },
   "US-SD": {
-    "title": "tommy detamore",
+    "title": "twins vs brewers",
     "link": "https://trends.google.com/trending/rss?geo=US-SD"
   },
   "US-TN": {
-    "title": "mets vs pirates",
+    "title": "mercury vs sun",
     "link": "https://trends.google.com/trending/rss?geo=US-TN"
   },
   "US-TX": {
-    "title": "twins vs brewers",
+    "title": "weather dallas",
     "link": "https://trends.google.com/trending/rss?geo=US-TX"
   },
   "US-UT": {
-    "title": "brandon clarke",
+    "title": "earthquake near me",
     "link": "https://trends.google.com/trending/rss?geo=US-UT"
   },
   "US-VT": {
@@ -180,11 +180,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-VT"
   },
   "US-VA": {
-    "title": "dream vs mystics",
+    "title": "cubs vs royals",
     "link": "https://trends.google.com/trending/rss?geo=US-VA"
   },
   "US-WA": {
-    "title": "grand park 2 fire",
+    "title": "mt rainier fire",
     "link": "https://trends.google.com/trending/rss?geo=US-WA"
   },
   "US-WV": {
@@ -192,7 +192,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-WV"
   },
   "US-WI": {
-    "title": "cubs vs royals",
+    "title": "guardians vs white sox",
     "link": "https://trends.google.com/trending/rss?geo=US-WI"
   },
   "US-WY": {
