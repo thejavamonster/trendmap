@@ -16,7 +16,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-AR"
   },
   "US-CA": {
-    "title": "charlie day",
+    "title": "twitch",
     "link": "https://trends.google.com/trending/rss?geo=US-CA"
   },
   "US-CO": {
@@ -64,7 +64,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-KS"
   },
   "US-KY": {
-    "title": "car insurance",
+    "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=US-KY"
   },
   "US-LA": {
@@ -164,7 +164,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-SD"
   },
   "US-TN": {
-    "title": "car insurance",
+    "title": "severe thunderstorm warning",
     "link": "https://trends.google.com/trending/rss?geo=US-TN"
   },
   "US-TX": {
@@ -184,7 +184,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-VA"
   },
   "US-WA": {
-    "title": "\u8bb8\u5bb6\u5370",
+    "title": "netflix",
     "link": "https://trends.google.com/trending/rss?geo=US-WA"
   },
   "US-WV": {
