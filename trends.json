@@ -1,6 +1,6 @@
 {
   "US-AL": {
-    "title": "flash flood warning",
+    "title": "flood warning",
     "link": "https://trends.google.com/trending/rss?geo=US-AL"
   },
   "US-AK": {
@@ -16,15 +16,15 @@
     "link": "https://trends.google.com/trending/rss?geo=US-AR"
   },
   "US-CA": {
-    "title": "1",
+    "title": "twitch",
     "link": "https://trends.google.com/trending/rss?geo=US-CA"
   },
   "US-CO": {
-    "title": "ryan hurst",
+    "title": "espn",
     "link": "https://trends.google.com/trending/rss?geo=US-CO"
   },
   "US-CT": {
-    "title": "sun vs aces",
+    "title": "ct lottery",
     "link": "https://trends.google.com/trending/rss?geo=US-CT"
   },
   "US-DE": {
@@ -32,7 +32,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-DE"
   },
   "US-FL": {
-    "title": "openai",
+    "title": "mikayla demaiter",
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
@@ -52,7 +52,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-IL"
   },
   "US-IN": {
-    "title": "car insurance",
+    "title": "yankees",
     "link": "https://trends.google.com/trending/rss?geo=US-IN"
   },
   "US-IA": {
@@ -64,7 +64,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-KS"
   },
   "US-KY": {
-    "title": "car insurance",
+    "title": "amazon",
     "link": "https://trends.google.com/trending/rss?geo=US-KY"
   },
   "US-LA": {
@@ -76,15 +76,15 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ME"
   },
   "US-MD": {
-    "title": "car insurance",
+    "title": "trump",
     "link": "https://trends.google.com/trending/rss?geo=US-MD"
   },
   "US-MA": {
-    "title": "boston weather",
+    "title": "clima",
     "link": "https://trends.google.com/trending/rss?geo=US-MA"
   },
   "US-MI": {
-    "title": "tiktok",
+    "title": "xrp",
     "link": "https://trends.google.com/trending/rss?geo=US-MI"
   },
   "US-MN": {
@@ -108,11 +108,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NE"
   },
   "US-NV": {
-    "title": "clima",
+    "title": "las vegas weather",
     "link": "https://trends.google.com/trending/rss?geo=US-NV"
   },
   "US-NH": {
-    "title": "natalie harp",
+    "title": "fever vs wings",
     "link": "https://trends.google.com/trending/rss?geo=US-NH"
   },
   "US-NJ": {
@@ -124,11 +124,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NM"
   },
   "US-NY": {
-    "title": "tiempo",
+    "title": "daily mail",
     "link": "https://trends.google.com/trending/rss?geo=US-NY"
   },
   "US-NC": {
-    "title": "publix blueberry recall",
+    "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=US-NC"
   },
   "US-ND": {
@@ -148,7 +148,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-OR"
   },
   "US-PA": {
-    "title": "instagram",
+    "title": "mikayla demaiter",
     "link": "https://trends.google.com/trending/rss?geo=US-PA"
   },
   "US-RI": {
@@ -156,7 +156,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-RI"
   },
   "US-SC": {
-    "title": "49ers",
+    "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=US-SC"
   },
   "US-SD": {
@@ -164,7 +164,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-SD"
   },
   "US-TN": {
-    "title": "espn",
+    "title": "car insurance",
     "link": "https://trends.google.com/trending/rss?geo=US-TN"
   },
   "US-TX": {
@@ -180,7 +180,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-VT"
   },
   "US-VA": {
-    "title": "xrp price",
+    "title": "xrp",
     "link": "https://trends.google.com/trending/rss?geo=US-VA"
   },
   "US-WA": {
