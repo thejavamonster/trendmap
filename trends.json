@@ -8,15 +8,15 @@
     "link": "https://trends.google.com/trending/rss?geo=US-AK"
   },
   "US-AZ": {
-    "title": "weather radar",
+    "title": "accuweather",
     "link": "https://trends.google.com/trending/rss?geo=US-AZ"
   },
   "US-AR": {
-    "title": "enes kanter",
+    "title": "storm",
     "link": "https://trends.google.com/trending/rss?geo=US-AR"
   },
   "US-CA": {
-    "title": "\ub0b4\uc77c \ub0a0\uc528",
+    "title": "santa monica",
     "link": "https://trends.google.com/trending/rss?geo=US-CA"
   },
   "US-CO": {
@@ -32,11 +32,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-DE"
   },
   "US-FL": {
-    "title": "chris johnson",
+    "title": "uss abraham lincoln",
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
-    "title": "word",
+    "title": "lioness",
     "link": "https://trends.google.com/trending/rss?geo=US-GA"
   },
   "US-HI": {
@@ -44,7 +44,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-HI"
   },
   "US-ID": {
-    "title": "seahawks",
+    "title": "indiana fever",
     "link": "https://trends.google.com/trending/rss?geo=US-ID"
   },
   "US-IL": {
@@ -60,11 +60,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-IA"
   },
   "US-KS": {
-    "title": "chatgpt",
+    "title": "tiktok",
     "link": "https://trends.google.com/trending/rss?geo=US-KS"
   },
   "US-KY": {
-    "title": "storm",
+    "title": "enes kanter",
     "link": "https://trends.google.com/trending/rss?geo=US-KY"
   },
   "US-LA": {
@@ -104,7 +104,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-MT"
   },
   "US-NE": {
-    "title": "enes kanter",
+    "title": "shelley fabares",
     "link": "https://trends.google.com/trending/rss?geo=US-NE"
   },
   "US-NV": {
@@ -148,7 +148,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-OR"
   },
   "US-PA": {
-    "title": "nick singleton",
+    "title": "uss abraham lincoln",
     "link": "https://trends.google.com/trending/rss?geo=US-PA"
   },
   "US-RI": {
@@ -168,7 +168,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-TN"
   },
   "US-TX": {
-    "title": "uss abraham lincoln",
+    "title": "sylvester stallone",
     "link": "https://trends.google.com/trending/rss?geo=US-TX"
   },
   "US-UT": {
