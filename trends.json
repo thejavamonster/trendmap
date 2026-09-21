@@ -1,11 +1,11 @@
 {
   "US-AL": {
-    "title": "games",
+    "title": "monday night football",
     "link": "https://trends.google.com/trending/rss?geo=US-AL"
   },
   "US-AK": {
-    "title": "nfl scores",
-    "link": "https://trends.google.com/trending/rss?geo=US-AK"
+    "title": null,
+    "link": null
   },
   "US-AZ": {
     "title": "games",
@@ -16,11 +16,11 @@
     "link": "https://trends.google.com/trending/rss?geo=US-AR"
   },
   "US-CA": {
-    "title": "cat",
+    "title": "puka nacua",
     "link": "https://trends.google.com/trending/rss?geo=US-CA"
   },
   "US-CO": {
-    "title": "gemini",
+    "title": "maps",
     "link": "https://trends.google.com/trending/rss?geo=US-CO"
   },
   "US-CT": {
@@ -28,15 +28,15 @@
     "link": "https://trends.google.com/trending/rss?geo=US-CT"
   },
   "US-DE": {
-    "title": "cowboys",
+    "title": "amazon",
     "link": "https://trends.google.com/trending/rss?geo=US-DE"
   },
   "US-FL": {
-    "title": "jennifer eckhart",
+    "title": "puka nacua",
     "link": "https://trends.google.com/trending/rss?geo=US-FL"
   },
   "US-GA": {
-    "title": "v",
+    "title": "monday night football",
     "link": "https://trends.google.com/trending/rss?geo=US-GA"
   },
   "US-HI": {
@@ -48,27 +48,27 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ID"
   },
   "US-IL": {
-    "title": "ai",
+    "title": "puka nacua",
     "link": "https://trends.google.com/trending/rss?geo=US-IL"
   },
   "US-IN": {
-    "title": "games",
+    "title": "monday night football",
     "link": "https://trends.google.com/trending/rss?geo=US-IN"
   },
   "US-IA": {
-    "title": "games",
+    "title": "monday night football",
     "link": "https://trends.google.com/trending/rss?geo=US-IA"
   },
   "US-KS": {
-    "title": "draftkings bonus code",
+    "title": "events",
     "link": "https://trends.google.com/trending/rss?geo=US-KS"
   },
   "US-KY": {
-    "title": "epic",
+    "title": "monday night football",
     "link": "https://trends.google.com/trending/rss?geo=US-KY"
   },
   "US-LA": {
-    "title": "games",
+    "title": "monday night football",
     "link": "https://trends.google.com/trending/rss?geo=US-LA"
   },
   "US-ME": {
@@ -76,19 +76,19 @@
     "link": "https://trends.google.com/trending/rss?geo=US-ME"
   },
   "US-MD": {
-    "title": "games",
+    "title": "maps",
     "link": "https://trends.google.com/trending/rss?geo=US-MD"
   },
   "US-MA": {
-    "title": "slides",
+    "title": "noreaster",
     "link": "https://trends.google.com/trending/rss?geo=US-MA"
   },
   "US-MI": {
-    "title": "comerica park",
+    "title": "monday night football",
     "link": "https://trends.google.com/trending/rss?geo=US-MI"
   },
   "US-MN": {
-    "title": "gemini",
+    "title": "monday night football",
     "link": "https://trends.google.com/trending/rss?geo=US-MN"
   },
   "US-MS": {
@@ -96,7 +96,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-MS"
   },
   "US-MO": {
-    "title": "epic",
+    "title": "monday night football",
     "link": "https://trends.google.com/trending/rss?geo=US-MO"
   },
   "US-MT": {
@@ -116,7 +116,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NH"
   },
   "US-NJ": {
-    "title": "newark airport",
+    "title": "puka nacua",
     "link": "https://trends.google.com/trending/rss?geo=US-NJ"
   },
   "US-NM": {
@@ -124,31 +124,31 @@
     "link": "https://trends.google.com/trending/rss?geo=US-NM"
   },
   "US-NY": {
-    "title": "newark airport",
+    "title": "monday night football",
     "link": "https://trends.google.com/trending/rss?geo=US-NY"
   },
   "US-NC": {
-    "title": "games",
+    "title": "monday night football",
     "link": "https://trends.google.com/trending/rss?geo=US-NC"
   },
   "US-ND": {
-    "title": "caleb williams",
-    "link": "https://trends.google.com/trending/rss?geo=US-ND"
+    "title": null,
+    "link": null
   },
   "US-OH": {
-    "title": "ai",
+    "title": "monday night football",
     "link": "https://trends.google.com/trending/rss?geo=US-OH"
   },
   "US-OK": {
-    "title": "epic",
+    "title": "monday night football",
     "link": "https://trends.google.com/trending/rss?geo=US-OK"
   },
   "US-OR": {
-    "title": "games",
+    "title": "slides",
     "link": "https://trends.google.com/trending/rss?geo=US-OR"
   },
   "US-PA": {
-    "title": "phil jurkovec",
+    "title": "monday night football",
     "link": "https://trends.google.com/trending/rss?geo=US-PA"
   },
   "US-RI": {
@@ -156,7 +156,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-RI"
   },
   "US-SC": {
-    "title": "ai",
+    "title": "monday night football",
     "link": "https://trends.google.com/trending/rss?geo=US-SC"
   },
   "US-SD": {
@@ -164,23 +164,23 @@
     "link": "https://trends.google.com/trending/rss?geo=US-SD"
   },
   "US-TN": {
-    "title": "google",
+    "title": "monday night football",
     "link": "https://trends.google.com/trending/rss?geo=US-TN"
   },
   "US-TX": {
-    "title": "gemini",
+    "title": "houston weather",
     "link": "https://trends.google.com/trending/rss?geo=US-TX"
   },
   "US-UT": {
-    "title": "games",
+    "title": "snake",
     "link": "https://trends.google.com/trending/rss?geo=US-UT"
   },
   "US-VT": {
-    "title": "nfl scores",
-    "link": "https://trends.google.com/trending/rss?geo=US-VT"
+    "title": null,
+    "link": null
   },
   "US-VA": {
-    "title": "doordash",
+    "title": "monday night football",
     "link": "https://trends.google.com/trending/rss?geo=US-VA"
   },
   "US-WA": {
@@ -192,7 +192,7 @@
     "link": "https://trends.google.com/trending/rss?geo=US-WV"
   },
   "US-WI": {
-    "title": "slides",
+    "title": "monday night football",
     "link": "https://trends.google.com/trending/rss?geo=US-WI"
   },
   "US-WY": {
